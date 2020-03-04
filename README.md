@@ -18,6 +18,7 @@ Analizar participación de mujeres en papers de computer science.
 11. Tiempo de actividad, año de primera publicación? -> Puede no ser tan preciso
 12. Cruzar datos con egresos/padrón de universidades para ver si la academia es mas dispar todavía
     * http://www.fi.uba.ar/sites/default/files/Padr%C3%B3n%20Graduados%202019%20%28DEFINITIVO%29.pdf (graduades fiuba)
+    * http://www.fi.uba.ar/sites/default/files/PADRON%20COMPLETO%20-%20EXTERIOR%20%281%29_0.pdf (padrón fiuba)
     * Buscar números en Argentina 
     * https://www.argentina.gob.ar/sites/default/files/presentacion_diagnostico_mujeres_en_ciencia_y_tecnologia_14-9-2018_meccyt.pdf
 
@@ -75,3 +76,4 @@ Analizar participación de mujeres en papers de computer science.
   * Usando pandas?
   * Hacer gráficos
   * Usando SQL?
+  * Clusterización: Eli tiene cosas hechas con tf-idf y clustering
