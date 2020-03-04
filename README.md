@@ -11,19 +11,28 @@ Analizar participación de mujeres en papers de computer science.
 4. Qué tanto se referencian las mujeres entre sí?
 5. Universidades más diversas?
 6. Cantidad de papers promedio publicados por mujeres vs por hombres x año/período
+7. Cantidad de autores cuando hay mujeres entre les autores
 
 ### Idea de proceso preliminar
 #### 1. Bajar papers de computer science
   * Fuente: semantic scholar
   * **Elegir queries relevantes** -> Tarea a definir
   * **Revisar BIEN qué otros campos podemos usar**
-    * citations
-    * relevance
-    * ratios
+    * citation velocity: cantidad de veces promedio que fue citado x año
+    * referencias: cuántas referencias hizo ese paper
+    * "numCitations": 794,
+    * "estNumCitations": 429.72803282114995,
+    * "numReferences": 4,
+    * "numKeyCitations": 119,
+    * "numKeyReferences": 0,
+    * "numViewableReferences": 4,
+    * "keyCitationRate": 0.14987405541561713,
+    * "citationVelocity": 80.33333333333333,
+    * "citationAcceleration": -0.31521739130434784, -> cambio en las veces de citación
+    * "fieldsOfStudy" -> Lista de campos de estudio
   * Años: 2010-2012, 2013-2015, 2016-2020
   * 6 mil por período
   * Ordenados por relevancia
-  * Límite de papers por año eventualmente
   * Datos a bajar (a priori)
     * Nombre completo de todes les autores
     * Primer nombre de todes les autores
@@ -31,6 +40,7 @@ Analizar participación de mujeres en papers de computer science.
     * Año
     * Universidad o establecimiento
     * Author ID
+    * Paper ID
     
 #### 2. Para cada paper, bajar las referencias
   * Cantidad de referencias
