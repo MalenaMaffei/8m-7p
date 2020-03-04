@@ -14,7 +14,10 @@ Analizar participación de mujeres en papers de computer science.
 7. Cantidad de autores cuando hay mujeres entre les autores
 8. Qué autores influencian/son influenciades por hombres vs mujeres? https://www.semanticscholar.org/author/Oren-Etzioni/1741101
 9. Uso de palabras clave en el título por género
-10. quedan clusterizadas las palabras clave x género? 
+10. Quedan clusterizadas las palabras clave x género? 
+11. Tiempo de actividad, año de primera publicación? -> Puede no ser tan preciso
+12. Cruzar datos con egresos de universidades para ver si la academia es mas dispar todavía
+13. 
 
 ### Idea de proceso preliminar
 #### 1. Bajar papers de computer science
