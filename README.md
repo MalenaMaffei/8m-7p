@@ -17,9 +17,9 @@ Analizar participación de mujeres en papers de computer science.
   * Fuente: semantic scholar
   * **Elegir queries relevantes** -> Tarea a definir
   * **Revisar BIEN qué otros campos podemos usar**
-   * citations
-   * relevance
-   * ratios
+    * citations
+    * relevance
+    * ratios
   * Años: 2010-2012, 2013-2015, 2016-2020
   * 6 mil por período
   * Ordenados por relevancia
