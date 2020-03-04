@@ -12,6 +12,9 @@ Analizar participación de mujeres en papers de computer science.
 5. Universidades más diversas?
 6. Cantidad de papers promedio publicados por mujeres vs por hombres x año/período
 7. Cantidad de autores cuando hay mujeres entre les autores
+8. Qué autores influencian/son influenciades por hombres vs mujeres? https://www.semanticscholar.org/author/Oren-Etzioni/1741101
+9. Uso de palabras clave en el título por género
+10. quedan clusterizadas las palabras clave x género? 
 
 ### Idea de proceso preliminar
 #### 1. Bajar papers de computer science
@@ -42,22 +45,28 @@ Analizar participación de mujeres en papers de computer science.
     * Author ID
     * Paper ID
     
-#### 2. Para cada paper, bajar las referencias
-  * Cantidad de referencias
-  * Nombres de les autores referenciades
 
-#### 2.b Datos del autor
+#### 2.a Datos del autor
  * Cantidad de papers publicando
  * En qué años?
   * Nos explotará la cantidad de papers? 
   * Será costoso conseguir los años de cada paper para cada autor?
+  * Influencias del autor -> Propuesta preliminar
+    * Agarrar a todas las autoras y ver sus influencias
+    * Agarrar subset de autores hombres y ver sus influencias
+    * **Es scrapeable?**
+    * Hace falta entonces ver las referencas de cada paper teniendo esto?
+
+#### 2.b Para cada paper, bajar las referencias
+  * Cantidad de referencias
+  * Nombres de les autores referenciades
   
 #### 3. Genderizar
   * Usando librería gender_guesser de python
   * Desambiguación con APi genderize
   * Analizar cantidad de autores que no podemos genderizar
   * Decidir
-  
+
 #### 4. Analizar
   * Usando pandas?
   * Hacer gráficos
