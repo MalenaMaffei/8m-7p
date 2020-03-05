@@ -41,6 +41,8 @@ Analizar participación de mujeres en papers de computer science.
    * citationAcceleration
    * fieldsOfStudy
    * search_term
+   
+   
   * Fuente: semantic scholar
   * **Elegir queries relevantes**
       **Lista KWs 2010-2020:**
