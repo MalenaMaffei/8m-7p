@@ -44,7 +44,7 @@ Analizar participación de mujeres en papers de computer science.
    
    
   * Fuente: semantic scholar
-  * **Elegir queries relevantes**
+  * ~**Elegir queries relevantes**~
       **Lista KWs 2010-2020:**
       * computer 1,890,000
       * algorithm : 2,500,000 results
@@ -60,7 +60,7 @@ Analizar participación de mujeres en papers de computer science.
       * novel: 1,090,000
       * approach: 2,900,000
       * IOT: 134,000
-  * **Revisar BIEN qué otros campos podemos usar**
+  * ~**Revisar BIEN qué otros campos podemos usar**~
     * citation velocity: cantidad de veces promedio que fue citado x año
     * referencias: cuántas referencias hizo ese paper
     * "numCitations": 794,
