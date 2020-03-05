@@ -24,7 +24,7 @@ Analizar participación de mujeres en papers de computer science.
 13. Participación x género en papers que unen computer science con otro campo de estudio
 
 ### Idea de proceso preliminar
-#### 1. Bajar papers de computer science
+#### ~1. Bajar papers de computer science~
   * Fuente: semantic scholar
   * **Elegir queries relevantes**
       **Lista KWs 2010-2020:**
