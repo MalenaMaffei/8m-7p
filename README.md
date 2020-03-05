@@ -45,7 +45,7 @@ Analizar participación de mujeres en papers de computer science.
    
   * Fuente: semantic scholar
   * ~**Elegir queries relevantes**~
-      **Lista KWs 2010-2020:**
+      * **Lista KWs 2010-2020:**
       * computer 1,890,000
       * algorithm : 2,500,000 results
       * model: 3,270,000
