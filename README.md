@@ -25,6 +25,22 @@ Analizar participación de mujeres en papers de computer science.
 
 ### Idea de proceso preliminar
 #### ~1. Bajar papers de computer science~
+##### Resumen
+   Usamos todas las kws de la lista, campos traídos:
+      * id
+      * title
+      * abstract
+      * pub_date
+      * pub_year
+      * authors
+      * citations
+      * keyCitations
+      * references
+      * keyReferences
+      * citationRate
+      * citationAcceleration
+      * fieldsOfStudy
+      * search_term
   * Fuente: semantic scholar
   * **Elegir queries relevantes**
       **Lista KWs 2010-2020:**
