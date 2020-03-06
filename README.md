@@ -19,14 +19,50 @@ Analizar participación de mujeres en papers de computer science.
 12. Cruzar datos con egresos/padrón de universidades para ver si la academia es mas dispar todavía
     * http://www.fi.uba.ar/sites/default/files/Padr%C3%B3n%20Graduados%202019%20%28DEFINITIVO%29.pdf (graduades fiuba)
     * http://www.fi.uba.ar/sites/default/files/PADRON%20COMPLETO%20-%20EXTERIOR%20%281%29_0.pdf (padrón fiuba)
+    * graduados exactas: https://exactas.uba.ar/wp-content/uploads/2019/11/jura20191129.pdf
     * Buscar números en Argentina 
     * https://www.argentina.gob.ar/sites/default/files/presentacion_diagnostico_mujeres_en_ciencia_y_tecnologia_14-9-2018_meccyt.pdf
-
+13. Participación x género en papers que unen computer science con otro campo de estudio
+14. Comparacion de participacion papers vs conicet
+15. *promedio de colaboracion* hombres vs mujeres
 ### Idea de proceso preliminar
-#### 1. Bajar papers de computer science
+#### ~1. Bajar papers de computer science~
+##### Resumen
+   Usamos todas las kws de la lista, campos traídos:
+   * id
+   * title
+   * abstract
+   * pub_date
+   * pub_year
+   * authors
+   * citations
+   * keyCitations
+   * references
+   * keyReferences
+   * citationRate
+   * citationAcceleration
+   * fieldsOfStudy
+   * search_term
+   
+   
   * Fuente: semantic scholar
-  * **Elegir queries relevantes** -> Tarea a definir
-  * **Revisar BIEN qué otros campos podemos usar**
+  * ~**Elegir queries relevantes**~
+      * **Lista KWs 2010-2020:**
+      * computer 1,890,000
+      * algorithm : 2,500,000 results
+      * model: 3,270,000
+      * cpu: 382,000
+      * architecture: 1,100,000
+      * performance: 2,560,000
+      * machine learning: 716,000
+      * blockchain: 18,400 (había mil papers de esto antes del 2010 :o)
+      * Technology: 2,160,000
+      * systems: 3,730,000
+      * network: 2,190,000
+      * novel: 1,090,000
+      * approach: 2,900,000
+      * IOT: 134,000
+  * ~**Revisar BIEN qué otros campos podemos usar**~
     * citation velocity: cantidad de veces promedio que fue citado x año
     * referencias: cuántas referencias hizo ese paper
     * "numCitations": 794,
@@ -52,17 +88,35 @@ Analizar participación de mujeres en papers de computer science.
     * Paper ID
     
 #### 2.a Datos del autor
- * Cantidad de papers publicando
- * En qué años?
-  * Nos explotará la cantidad de papers? 
-  * Será costoso conseguir los años de cada paper para cada autor?
+**Tenemos**
+* cant publicaciones
+* id
+* cant citaciones
+* cant citaciones altamente influenciables
+
+**sacando**
+* dato autor
+   * años de papers
+   * cant promedio de co-autores en papers
+* influencias
+   * ids
+   * nombres
+   * score de influencia
+   
+**Ideas**
+ * ~Cantidad de papers publicando~
+ * En qué años? -> vamos a ver si esta facil en el json
+      * Nos explotará la cantidad de papers? 
+      * Será costoso conseguir los años de cada paper para cada autor?
   * Influencias del autor -> Propuesta preliminar
     * Agarrar a todas las autoras y ver sus influencias
     * Agarrar subset de autores hombres y ver sus influencias
-    * **Es scrapeable?**
-    * Hace falta entonces ver las referencas de cada paper teniendo esto?
+    * ~**Es scrapeable?**~
+    * ~Hace falta entonces ver las referencas de cada paper teniendo esto?~ -> aparentemente no
 
 #### 2.b Para cada paper, bajar las referencias
+**estado actual**
+no haría falta esto dado que pudimos sacar las influencias de la pagina del autor
   * Cantidad de referencias
   * Nombres de les autores referenciades
   
