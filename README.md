@@ -22,6 +22,7 @@ Analizar participación de mujeres en papers de computer science.
     * Buscar números en Argentina 
     * https://www.argentina.gob.ar/sites/default/files/presentacion_diagnostico_mujeres_en_ciencia_y_tecnologia_14-9-2018_meccyt.pdf
 13. Participación x género en papers que unen computer science con otro campo de estudio
+14. Comparacion de participacion papers vs conicet
 
 ### Idea de proceso preliminar
 #### ~1. Bajar papers de computer science~
