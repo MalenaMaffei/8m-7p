@@ -9,7 +9,7 @@ Analizar participación de mujeres en papers de computer science.
 2. En qué posiciones suelen aparecer en el orden de autores?
 3. Qué tanto son referenciados los papers de autores mujeres?
 4. Qué tanto se referencian las mujeres entre sí?
-5. Universidades más diversas?
+5. ~Universidades más diversas?~-> no estaba disponible el establecimiento en el paper
 6. Cantidad de papers promedio publicados por mujeres vs por hombres x año/período
 7. Cantidad de autores cuando hay mujeres entre les autores
 8. Qué autores influencian/son influenciades por hombres vs mujeres? https://www.semanticscholar.org/author/Oren-Etzioni/1741101
