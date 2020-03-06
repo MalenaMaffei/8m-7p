@@ -9,13 +9,14 @@ Analizar participación de mujeres en papers de computer science.
 2. En qué posiciones suelen aparecer en el orden de autores?
 3. Qué tanto son referenciados los papers de autores mujeres?
 4. Qué tanto se referencian las mujeres entre sí?
-5. Universidades más diversas?
+5. ~Universidades más diversas?~-> no estaba disponible el establecimiento en el paper
 6. Cantidad de papers promedio publicados por mujeres vs por hombres x año/período
 7. Cantidad de autores cuando hay mujeres entre les autores
 8. Qué autores influencian/son influenciades por hombres vs mujeres? https://www.semanticscholar.org/author/Oren-Etzioni/1741101
 9. Uso de palabras clave en el título por género
 10. Quedan clusterizadas las palabras clave x género? 
 11. Tiempo de actividad, año de primera publicación? -> Puede no ser tan preciso
+   * hombres tienen carreras mas largas y con mas actividad?
 12. Cruzar datos con egresos/padrón de universidades para ver si la academia es mas dispar todavía
     * http://www.fi.uba.ar/sites/default/files/Padr%C3%B3n%20Graduados%202019%20%28DEFINITIVO%29.pdf (graduades fiuba)
     * http://www.fi.uba.ar/sites/default/files/PADRON%20COMPLETO%20-%20EXTERIOR%20%281%29_0.pdf (padrón fiuba)
@@ -25,6 +26,7 @@ Analizar participación de mujeres en papers de computer science.
 13. Participación x género en papers que unen computer science con otro campo de estudio
 14. Comparacion de participacion papers vs conicet
 15. *promedio de colaboracion* hombres vs mujeres
+
 ### Idea de proceso preliminar
 #### ~1. Bajar papers de computer science~
 ##### Resumen
