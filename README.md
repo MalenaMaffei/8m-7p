@@ -19,6 +19,7 @@ Analizar participación de mujeres en papers de computer science.
 12. Cruzar datos con egresos/padrón de universidades para ver si la academia es mas dispar todavía
     * http://www.fi.uba.ar/sites/default/files/Padr%C3%B3n%20Graduados%202019%20%28DEFINITIVO%29.pdf (graduades fiuba)
     * http://www.fi.uba.ar/sites/default/files/PADRON%20COMPLETO%20-%20EXTERIOR%20%281%29_0.pdf (padrón fiuba)
+    * graduados exactas: https://exactas.uba.ar/wp-content/uploads/2019/11/jura20191129.pdf
     * Buscar números en Argentina 
     * https://www.argentina.gob.ar/sites/default/files/presentacion_diagnostico_mujeres_en_ciencia_y_tecnologia_14-9-2018_meccyt.pdf
 13. Participación x género en papers que unen computer science con otro campo de estudio
