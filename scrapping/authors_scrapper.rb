@@ -41,12 +41,22 @@ def authors_id_to_files(papers_data_path, authors_data_path)
     end
 end
 
-def get_statistics_data(author_id, page)
+def get_statistics_data(author_id, page, data_json)
     stadistic_data = page.xpath('//div[@class="author-detail-card"]//div[@class="author-detail-card__stats-row"]/span')
     publications = stadistic_data[1].text.gsub(",","")
     citations = stadistic_data[3].text.gsub(",","")
     highly_influencial_citations = stadistic_data[5].text.gsub(",","")
-    {"author_id" => author_id, "publications" => publications, "citations" => citations, "highly_influencial_citations" => highly_influencial_citations}
+    authors_qty = 0
+    years = []
+    papers = data_json[1]["resultData"]["author"]["papers"]["results"]
+    papers_qty = papers.length()
+    papers.each do |paper|
+        authors_qty += paper["authors"].length()
+        years.push(paper["year"]["text"].strip)
+    end
+    prom_authors_papers = authors_qty / papers_qty
+
+    {"author_id" => author_id, "publications" => publications, "citations" => citations, "highly_influencial_citations" => highly_influencial_citations, "prom_authors_papers" => prom_authors_papers, "years" => years.join(",")  }
 end
 
 def get_author_data(author_id,a)
@@ -60,22 +70,22 @@ CSV.open(authors_data_path, "wb") do |csv_authors|
 CSV.open(influenced_by_data_path, "wb") do |csv_influenced_by|
 CSV.open(influenced_authors_data_path, "wb") do |csv_influenced_authors|
 
-    csv_authors << ["author_id", "publications", "citations", "highly_influencial_citations" ]
+    csv_authors << ["author_id", "publications", "citations", "highly_influencial_citations", "prom_authors_papers", "papers_years"]
     csv_influenced_by << ["author_id", "id", "name", "score" ]
     csv_influenced_authors << ["author_id", "id", "name", "score" ]
 
     authors_ids.each do |author_id|
-        begin
+        #begin
             $log.debug "Waiting some secs to get next author #{author_id}"
             sleep 3
             page = get_page_from_url("https://www.semanticscholar.org/author/#{author_id}")
-            
-            statistics = get_statistics_data(author_id, page)
-            csv_authors << statistics.values
 
             data = page.at_xpath('//script[contains(text(),"var DATA =")]').text.gsub("var DATA = '","").gsub("';","")
             raw_data = Base64.decode64(data)
             data_json = JSON.parse URI.decode raw_data
+
+            statistics = get_statistics_data(author_id, page, data_json)
+            csv_authors << statistics.values
 
             authors_influenced_info = data_json[1]["resultData"]["author"]["statistics"]["influence"]["influenced"]
             who_influenced_author_info = data_json[1]["resultData"]["author"]["statistics"]["influence"]["influencedBy"]
@@ -89,9 +99,9 @@ CSV.open(influenced_authors_data_path, "wb") do |csv_influenced_authors|
                 author = get_author_data(author_id,a)
                 csv_influenced_authors << author.values
             end
-        rescue
-            next
-        end
+        #rescue
+            #next
+        #end
     end
 end
 end

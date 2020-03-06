@@ -10,7 +10,7 @@ $log.datetime_format = "%Y-%m-%d %H:%M:%S"
 $log.formatter = Logger::Formatter.new
 
 def get_page_from_semantics(query_string, min_year, max_year, page, headers)
-    params = "{\"queryString\":\"#{query_string}\",\"page\":#{page},\"pageSize\":500,\"sort\":\"relevance\",\"authors\":[],\"coAuthors\":[],\"venues\":[],\"yearFilter\":{\"min\":#{min_year},\"max\":#{max_year}},\"requireViewablePdf\":false,\"fieldOfStudy\":\"computer-science\",\"performTitleMatch\":true}"           
+    params = "{\"queryString\":\"#{query_string}\",\"page\":#{page},\"pageSize\":1000,\"sort\":\"relevance\",\"authors\":[],\"coAuthors\":[],\"venues\":[],\"yearFilter\":{\"min\":#{min_year},\"max\":#{max_year}},\"requireViewablePdf\":false,\"fieldOfStudy\":\"computer-science\",\"performTitleMatch\":true}"           
     $log.debug "Waiting some secs to get next term \"#{query_string}\""
     sleep 5
     html_page = post_page_from_url("https://www.semanticscholar.org/api/1/search", params, headers)
@@ -52,7 +52,7 @@ end
 
 
 periods = [[2010,2012],[2013,2015],[2016,2020]]
-queryStrings = ["computer", "algorithm", "model", "cpu", "architecture", "performance", "machine learning", "blockchain", "Technology", "systems", "network", "novel", "approach"]
+queryStrings = ["blockchain", "computer", "algorithm", "model", "cpu", "architecture", "performance", "machine learning", "Technology", "systems", "network", "novel", "approach"]
 papers_ids = []
 headers = {"Origin" => "https://www.semanticscholar.org", "Content-Type" => "application/json", "Accept" => "*/*"}
 
@@ -73,7 +73,7 @@ periods.each do |period|
                 page["results"].each do |paper_info|
                     begin  
                         next if papers_ids.include? paper_info["id"]
-                        if papers.size < 500
+                        if papers.size < 1000
                             data = get_info_from_paper(paper_info, query_string)
                             papers  << data
                             papers_ids << paper_info["id"]
@@ -86,7 +86,7 @@ periods.each do |period|
                     end
                 end
                 $log.info "Succesfully added info for #{papers.size} papers to file"
-                needs_other_page = papers.size < 500 && page["results"] != 0
+                needs_other_page = papers.size < 1000 && page["results"].size != 0
                 page_num += 1
 
             end
