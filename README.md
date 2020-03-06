@@ -87,17 +87,31 @@ Analizar participación de mujeres en papers de computer science.
     * Paper ID
     
 #### 2.a Datos del autor
- * Cantidad de papers publicando
- * En qué años?
-  * Nos explotará la cantidad de papers? 
-  * Será costoso conseguir los años de cada paper para cada autor?
+**Tenemos**
+* cant publicaciones
+* id
+* cant citaciones
+* cant citaciones altamente influenciables
+**sacando**
+* influencias
+   * ids
+   * nombres
+   * score de influencia
+   
+**Ideas**
+ * ~Cantidad de papers publicando~
+ * En qué años? -> vamos a ver si esta facil en el json
+      * Nos explotará la cantidad de papers? 
+      * Será costoso conseguir los años de cada paper para cada autor?
   * Influencias del autor -> Propuesta preliminar
     * Agarrar a todas las autoras y ver sus influencias
     * Agarrar subset de autores hombres y ver sus influencias
-    * **Es scrapeable?**
-    * Hace falta entonces ver las referencas de cada paper teniendo esto?
+    * ~**Es scrapeable?**~
+    * ~Hace falta entonces ver las referencas de cada paper teniendo esto?~ -> aparentemente no
 
 #### 2.b Para cada paper, bajar las referencias
+**estado actual**
+no haría falta esto dado que pudimos sacar las influencias de la pagina del autor
   * Cantidad de referencias
   * Nombres de les autores referenciades
   
