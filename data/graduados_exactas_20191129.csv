@@ -1,0 +1,668 @@
+,titulo,apellido_nombres,carrera,genero
+0,Profesora Ens.Med.y Sup.Biología,ABALDE Lis Yazmín,Profesorado en Ens.Med.y Sup.Biología,female
+1,Ldo. Cs.Computación,ABOY SOLANES Santiago,Licenciatura en Cs.Computación,male
+2,Ldo. Cs.Físicas,ABREVAYA Germán Ezequiel,Licenciatura en Cs.Físicas,male
+3,Lda. Cs.Matemáticas,ACCOMAZZO SCOTTI Natalia Celeste,Licenciatura en Cs.Matemáticas,female
+4,Lda. Cs.Geológicas,ACEVEDO Eliana Belén,Licenciatura en Cs.Geológicas,female
+5,Ldo. Cs.Matemáticas,ACRI Emiliano Francisco,Licenciatura en Cs.Matemáticas,male
+6,Ldo. Cs.Biológicas,ADOT Francisco,Licenciatura en Cs.Biológicas,male
+7,Lda. Cs.Geológicas,AGOSTINELLI Mercedes Salomé,Licenciatura en Cs.Geológicas,female
+8,Ldo. Cs.Biológicas,AGUERREBERRY Emiliano,Licenciatura en Cs.Biológicas,male
+9,Magister UBA en Meteorología Agrícola,AGUILERA Regina Beatriz,Magisterio UBA en Meteorología Agrícola,female
+10,Dr. UBA(Cs.Biológicas),AGUILERA SAMMARITANO Juan Alberto,Doctorado UBA(Cs.Biológicas),male
+11,Ldo. Cs.Biológicas,AGUIRRE Cristian Daniel,Licenciatura en Cs.Biológicas,male
+12,Dr. UBA(Cs.Físicas),ALBERTI Alejo,Doctorado UBA(Cs.Físicas),male
+13,Profesora Ens.Med.y Sup.Biología,ALBIONI MONTENEGRO Gloria Eva,Profesorado en Ens.Med.y Sup.Biología,female
+14,Lda. Cs.Biológicas,ALFARO  Elisa Raquel,Licenciatura en Cs.Biológicas,female
+15,Ldo. Cs.Computación,ALFONSO Mauricio,Licenciatura en Cs.Computación,male
+16,Analista Universitaria de Computación,ALFONSO Mauricio,Analisis Universitaria de Computación,male
+17,Lda. Cs.Biológicas,ALLEN DOHLE Sharon Ingrid,Licenciatura en Cs.Biológicas,female
+18,Dr. UBA(Cs.Físicas),ALLEN Pablo Guillermo,Doctorado UBA(Cs.Físicas),male
+19,Ldo. Cs.Biológicas,ALONSO Ignacio,Licenciatura en Cs.Biológicas,male
+20,Esp. en Exp.de Datos y Desc.de Conocimiento,ALONSO Mónica Liliana,Especialista en Exp.de Datos y Desc.de Conocimiento,female
+21,Dr. UBA(Cs.Físicas),ALONSO Rodrigo,Doctorado UBA(Cs.Físicas),male
+22,Ldo. Cs.Computación,ALVAREZ Matias Exequiel,Licenciatura en Cs.Computación,male
+23,Lda. Cs.Físicas,ALVAREZ MERCÉ Rocío,Licenciatura en Cs.Físicas,female
+24,Lda. Cs.Biológicas,AMAR Agustina,Licenciatura en Cs.Biológicas,female
+25,Lda. Cs.Biológicas,AMENEIRO Leila Soledad,Licenciatura en Cs.Biológicas,female
+26,Ldo. Cs.Químicas,AMREIN Fernando,Licenciatura en Cs.Químicas,male
+27,Dra. UBA(Química Biológica),ANDINO PAVLOVSKY Victoria,Doctorado UBA(Química Biológica),female
+28,Ldo. Cs.Químicas,ANTON Matias,Licenciatura en Cs.Químicas,male
+29,Dr. UBA(Química Biológica),APTEKMANN Ariel Alejandro,Doctorado UBA(Química Biológica),male
+30,Dr. UBA(Química Biológica),ARCÓN Juan Pablo,Doctorado UBA(Química Biológica),male
+31,Lda. Cs.Computación,ARROYO Virginia Inés,Licenciatura en Cs.Computación,female
+32,Esp. en Exp.de Datos y Desc.de Conocimiento,ARRUTI Juan Pablo,Especialista en Exp.de Datos y Desc.de Conocimiento,male
+33,Magister UBA en Exp.de Datos y Desc.de Conocimiento,AVALOS SERRANO Veronica Nathali,Magisterio UBA en Exp.de Datos y Desc.de Conocimiento,female
+34,Lda. Cs.Biológicas,AYRE Marina,Licenciatura en Cs.Biológicas,female
+35,Bachiller Universitario Cs.Atmósfera,BACIGALUPPI Marco,Bachillerato Universitario Cs.Atmósfera,male
+36,Dr. UBA(Cs.Atmósfera y los Océanos),BACINO Guido Luis,Doctorado UBA(Cs.Atmósfera y los Océanos),male
+37,Ldo. Cs.Físicas,BADIA Javier,Licenciatura en Cs.Físicas,mostly_male
+38,Dra. UBA(Cs.Biológicas),BALAZOTE OLIVER Agustina,Doctorado UBA(Cs.Biológicas),female
+39,Magister UBA en Exp.de Datos y Desc.de Conocimiento,BANCHERO Santiago,Magisterio UBA en Exp.de Datos y Desc.de Conocimiento,male
+40,Dr. UBA(Cs.Físicas),BARABAS Federico Martin,Doctorado UBA(Cs.Físicas),male
+41,Dr. UBA(Cs.Químicas),BARALDO VICTORICA Luis Mario,Doctorado UBA(Cs.Químicas),male
+42,Ldo. Cs.Físicas,BARLARI Martín,Licenciatura en Cs.Físicas,male
+43,Dra. UBA(Cs.Matemáticas),BARONCINI Carla Antonella,Doctorado UBA(Cs.Matemáticas),female
+44,Dr. UBA(Química Orgánica),BARRADAS José Sebastián,Doctorado UBA(Química Orgánica),male
+45,Ldo. Cs.Físicas,BARRERA LEMARCHAND Federico Ulises,Licenciatura en Cs.Físicas,male
+46,Dr. UBA(Química Biológica),BARRIONUEVO Matías Raúl,Doctorado UBA(Química Biológica),male
+47,Ldo. Cs.Biológicas,BATTINI Leandro,Licenciatura en Cs.Biológicas,male
+48,Analista Universitario de Computación,BAYARDO SPADAFORA Julian,Analisis Universitario de Computación,male
+49,Magister UBA en Exp.de Datos y Desc.de Conocimiento,BAYLE Federico,Magisterio UBA en Exp.de Datos y Desc.de Conocimiento,male
+50,Esp. en Exp.de Datos y Desc.de Conocimiento,BAYLE Federico,Especialista en Exp.de Datos y Desc.de Conocimiento,male
+51,Dr. UBA(Cs.Biológicas),BECERRA Marcos Gabriel,Doctorado UBA(Cs.Biológicas),male
+52,Ldo. Cs.Biológicas,BELDORATI German Gabriel,Licenciatura en Cs.Biológicas,male
+0,Esp. en Química y Ambiente,BELLANDE Maria Monserrat,Especialista en Química y Ambiente,female
+1,Dr. UBA(Cs.Biológicas),BEN GUERRERO Emiliano,Doctorado UBA(Cs.Biológicas),male
+2,Ldo. Cs.Computación,BENEGAS Gonzalo Segundo,Licenciatura en Cs.Computación,male
+3,Dra. UBA(Cs.Biológicas),BENGOCHEA Mercedes,Doctorado UBA(Cs.Biológicas),female
+4,Ldo. Cs.Computación,BENGOLEA MONZON Gastón,Licenciatura en Cs.Computación,male
+5,Analista Universitario de Computación,BENGOLEA MONZON Gastón,Analisis Universitario de Computación,male
+6,Ldo. Cs.Geológicas,BENITEZ Nicolas Ariel,Licenciatura en Cs.Geológicas,male
+7,Dra. UBA(Cs.Biológicas),BENITEZ SALDIVAR María Juliana,Doctorado UBA(Cs.Biológicas),female
+8,Ldo. Cs.Biológicas,BENNARDO Lautaro Ezequiel,Licenciatura en Cs.Biológicas,male
+9,Lda. Cs.Biológicas,BENTIVEGNA Melisa Ines Maria,Licenciatura en Cs.Biológicas,female
+10,Lda. Cs.Biológicas,BERNAL María Carolina,Licenciatura en Cs.Biológicas,female
+11,Magister UBA en Ciencias Ambientales,BERNAL REY Daissy Lisbeth,Magisterio UBA en Ciencias Ambientales,female
+12,Lda. Cs.Químicas,BERNARDI Milagros,Licenciatura en Cs.Químicas,female
+13,Dr. UBA(Cs.Biológicas),BERNASCONI Juan Federico,Doctorado UBA(Cs.Biológicas),male
+14,Dra. UBA(Química Industrial),BERNHARDT Dana Cecilia,Doctorado UBA(Química Industrial),female
+15,Dra. UBA(Cs.Biológicas),BETTI Maria Isabel Lujan,Doctorado UBA(Cs.Biológicas),female
+16,Dra. UBA(Cs.Biológicas),BETTI Paola,Doctorado UBA(Cs.Biológicas),female
+17,Ldo. Cs.Físicas,BEZZECCHI PETROFF Francisco Javier,Licenciatura en Cs.Físicas,male
+18,Ldo. Cs.Computación,BISCEGLIA Pablo Nicolas,Licenciatura en Cs.Computación,male
+19,Esp. en Exp.de Datos y Desc.de Conocimiento,BOK Melisa,Especialista en Exp.de Datos y Desc.de Conocimiento,female
+20,Profesor Ens.Med.y Sup.Biología,BORJA Nicolás Alan,Profesorado en Ens.Med.y Sup.Biología,male
+21,Dr. UBA(Química Biológica),BORON Carlos Ignacio,Doctorado UBA(Química Biológica),male
+22,Esp. en Conservación de la Biodiversidad,BORSELLINO Maria Laura,Especialista en Conservación de la Biodiversidad,female
+23,Dr. UBA(Cs.Físicas),BOSSIO SOLA Jonathan David,Doctorado UBA(Cs.Físicas),male
+24,Dra. UBA(Cs.Biológicas),BRACCINI Celina Laura,Doctorado UBA(Cs.Biológicas),female
+25,Esp. en Conservación de la Biodiversidad,BRANCH BERMUDEZ Jennifer,Especialista en Conservación de la Biodiversidad,female
+26,Dra. UBA(Cs.Biológicas),BRION Laura,Doctorado UBA(Cs.Biológicas),female
+27,Dr. UBA(Química Biológica),BRUKMAN Nicolas Gaston,Doctorado UBA(Química Biológica),male
+28,Lda. Cs.Biológicas,BRUZZESE Carolina Adriana,Licenciatura en Cs.Biológicas,female
+29,Lda. Cs.Químicas,BUJÁN STURARI Maria Belén,Licenciatura en Cs.Químicas,female
+30,Lda. Cs.Atmósfera,BUREK Antonella,Licenciatura en Cs.Atmósfera,female
+31,Dr. UBA(Cs.Biológicas),BURGOS Estanislao,Doctorado UBA(Cs.Biológicas),male
+32,Esp. en Exp.de Datos y Desc.de Conocimiento,BUSTO Victoria,Especialista en Exp.de Datos y Desc.de Conocimiento,female
+33,Magister UBA en Exp.de Datos y Desc.de Conocimiento,BUTTI Matias Daniel,Magisterio UBA en Exp.de Datos y Desc.de Conocimiento,male
+34,Dra. UBA(Química Biológica),BYK Laura Andrea,Doctorado UBA(Química Biológica),female
+35,Dra. UBA(Cs.Biológicas),BYTTEBIER Bárbara,Doctorado UBA(Cs.Biológicas),female
+36,Ldo. Cs.Físicas,CABABIÉ Mariano Rubén,Licenciatura en Cs.Físicas,male
+37,Ldo. Cs.Biológicas,CABEZA Facundo,Licenciatura en Cs.Biológicas,male
+38,Ldo. Cs.Químicas,CABRERA Jorge Nicolás,Licenciatura en Cs.Químicas,male
+39,Dra. UBA(Química Biológica),CÁCERES WENZEL Marcela Inés,Doctorado UBA(Química Biológica),female
+40,Ldo. Cs.Biológicas,CALANNI Juan Salvador,Licenciatura en Cs.Biológicas,male
+41,Ldo. Cs.Químicas,CALCABRINI Mariano,Licenciatura en Cs.Químicas,male
+42,Ldo. Cs.Computación,CALDERINI Nicolas Nahuel,Licenciatura en Cs.Computación,male
+43,"Magister UBA en Bromatología y Tecnología de laIndustrialización de los Alimentos",CALDERON SANCHEZ Ingrid Paola,"Magisterio UBA en Bromatología y Tecnología de laIndustrialización de los Alimentos",female
+44,Dra. UBA(Cs.Geológicas),CALVI Carolina Maria Rosa,Doctorado UBA(Cs.Geológicas),female
+45,Profesora Ens.Med.y Sup.Biología,CALVIÑO María Ana,Profesorado en Ens.Med.y Sup.Biología,female
+46,Dr. UBA(Cs.Biológicas),CALZADILLA Pablo Ignacio,Doctorado UBA(Cs.Biológicas),male
+47,Ldo. Cs.Físicas,CAMBIASSO Javier,Licenciatura en Cs.Físicas,mostly_male
+48,Dra. UBA(Cs.Biológicas),CAMINO Micaela,Doctorado UBA(Cs.Biológicas),female
+49,Ldo. Cs.Químicas,CAMPANA Jorge Ernesto,Licenciatura en Cs.Químicas,male
+50,Lda. Cs.Biológicas,CAMPETELLA Carla Agustina,Licenciatura en Cs.Biológicas,female
+51,Dra. UBA(Química Biológica),CAMPISANO Sabrina Edith,Doctorado UBA(Química Biológica),female
+0,Ldo. Cs.Computación,CAMPOS CATELIN Rodrigo,Licenciatura en Cs.Computación,male
+1,Esp. en Biotecnología Industrial,CANCELA Guillermo Ezequiel,Especialista en Biotecnología Industrial,male
+2,Dra. UBA(Química Orgánica),CANO María Emilia,Doctorado UBA(Química Orgánica),female
+3,"Dra. UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",CAPDEVILA Daiana Andrea,"Doctorado UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",female
+4,Dra. UBA(Cs.Biológicas),CARABAJAL PALADINO Leonela Zusel,Doctorado UBA(Cs.Biológicas),female
+5,Lda. Ciencia y Tecnología de Alimentos,CARACOSTANTOGOLO Griselda Beatriz,Licenciatura en Ciencia y Tecnología de Alimentos,female
+6,Ldo. Cs.Atmósfera,CARAGUNIS Juan Ignacio,Licenciatura en Cs.Atmósfera,male
+7,Ldo. Cs.Biológicas,CARDACI Juan Manuel,Licenciatura en Cs.Biológicas,male
+8,Esp. en Conservación de la Biodiversidad,CARIDE Agustina,Especialista en Conservación de la Biodiversidad,female
+9,Ldo. Cs.Matemáticas,CARRÁ Federico,Licenciatura en Cs.Matemáticas,male
+10,Dr. UBA(Cs.Físicas),CARREIRA Santiago Jose,Doctorado UBA(Cs.Físicas),male
+11,Ldo. Cs.Matemáticas,CARVAJAL Gabriel,Licenciatura en Cs.Matemáticas,male
+12,Ldo. Cs.Químicas,CASANUEVA Alex Gabriel,Licenciatura en Cs.Químicas,male
+13,Lda. Cs.Biológicas,CASCARDO Florencia Laura,Licenciatura en Cs.Biológicas,female
+14,Dr. UBA(Cs.Biológicas),CASEY Eric,Doctorado UBA(Cs.Biológicas),male
+15,Dr. UBA(Química Biológica),CASSINOTTI Luis Roberto,Doctorado UBA(Química Biológica),male
+16,Ldo. Cs.Químicas,CASTAÑEDA ANSOURIAN Lisandro Ignacio,Licenciatura en Cs.Químicas,male
+17,Ldo. Cs.Biológicas,CASTAÑO Bryan Alain Alexis,Licenciatura en Cs.Biológicas,male
+18,Profesor Ens.Med.y Sup.Biología,CASTAÑO Bryan Alain Alexis,Profesorado en Ens.Med.y Sup.Biología,male
+19,Dr. UBA(Cs.Computación),CASTAÑO Rodrigo,Doctorado UBA(Cs.Computación),male
+20,Esp. en Exp.de Datos y Desc.de Conocimiento,CASTELLANA Noelia,Especialista en Exp.de Datos y Desc.de Conocimiento,female
+21,Dra. UBA(Cs.Biológicas),CASTIGLIA Valeria Carolina,Doctorado UBA(Cs.Biológicas),female
+22,Dra. UBA(Química Biológica),CASTILLO Amalia Inés,Doctorado UBA(Química Biológica),female
+23,Profesora Ens.Med.y Sup.Biología,CATALANO Nelise Ester,Profesorado en Ens.Med.y Sup.Biología,female
+24,Lda. Cs.Físicas,CEBALLOS Rocío Lais,Licenciatura en Cs.Físicas,female
+25,Profesora ENS.Med.y Sup.Biología,CECCHETTINI Carolina,Profesorado en ENS.Med.y Sup.Biología,female
+26,Dr. UBA(Inst.de Inv.Bioquímicas),CENTANIN Lazaro,Doctorado UBA(Inst.de Inv.Bioquímicas),male
+27,Ldo. Cs.Biológicas,CENTANIN Lazaro,Licenciatura en Cs.Biológicas,male
+28,Ldo. Cs.Biológicas,CERDEIRA Elias Nahuel,Licenciatura en Cs.Biológicas,male
+29,Ldo. Cs.Físicas,CERRETANI Joan Alberto,Licenciatura en Cs.Físicas,female
+30,Profesor Ens.Med.y Sup.Biología,CHAIN José María,Profesorado en Ens.Med.y Sup.Biología,male
+31,Dr. UBA(Cs.Computación),CHARI Guido Martin,Doctorado UBA(Cs.Computación),male
+32,Ldo. Cs.Matemáticas,CHEHEBAR Mariano Andres,Licenciatura en Cs.Matemáticas,male
+33,Asistente de Investigación en Física,CHIARELLI Germán Agustín,Asistencia de Investigación en Física,male
+34,Lda. Cs.Biológicas,CHMELIK Brenda,Licenciatura en Cs.Biológicas,female
+35,Ldo. Cs.Computación,CHOMCZYNSKI Wojciech Waldemar,Licenciatura en Cs.Computación,male
+36,Dr. UBA(Cs.Matemáticas),CHOUHY Sergio Nicolas,Doctorado UBA(Cs.Matemáticas),male
+37,Ldo. Cs.Computación,CICCIOLI Facundo Fabian,Licenciatura en Cs.Computación,male
+38,Lda. Cs.Químicas,CINGOLANI Romina,Licenciatura en Cs.Químicas,female
+39,Dr. UBA(Cs.Computación),CIOLEK Daniel Alfredo,Doctorado UBA(Cs.Computación),male
+40,Ldo. Cs.Computación,CIRUELOS RODRÍGUEZ Gonzalo,Licenciatura en Cs.Computación,male
+41,Analista Universitario de Computación,CIRUELOS RODRÍGUEZ Gonzalo,Analisis Universitario de Computación,male
+42,Esp. en Seguridad e Higiene Ámbito Laboral,CISNEROS NAPRAVNIK Tatiana Milagros,Especialista en Seguridad e Higiene Ámbito Laboral,female
+43,Lda. Ciencia y Tecnología de Alimentos,CLAVEL Veronica Cecilia,Licenciatura en Ciencia y Tecnología de Alimentos,female
+44,Ldo. Cs.Biológicas,CONTRERAS Mauricio Pablo,Licenciatura en Cs.Biológicas,male
+45,Esp. en Exp.de Datos y Desc.de Conocimiento,COPPOLILLO Nestor Raul,Especialista en Exp.de Datos y Desc.de Conocimiento,male
+46,Esp. en Exp.de Datos y Desc.de Conocimiento,CÓRDOBA Leonardo Ignacio,Especialista en Exp.de Datos y Desc.de Conocimiento,male
+47,Bachiller Universitario Cs.Atmósfera,CORDOBA Pablo Ezequiel,Bachillerato Universitario Cs.Atmósfera,male
+48,Ldo. Cs.Químicas,CORS Ariel,Licenciatura en Cs.Químicas,male
+49,Ldo. Cs.Biológicas,CORTELEZZI Juan Ignacio,Licenciatura en Cs.Biológicas,male
+50,Dr. UBA(Cs.Biológicas),CORTI BIELSA Gonzalo Damián,Doctorado UBA(Cs.Biológicas),male
+51,Ldo. Cs.Biológicas,CORTI BIELSA Rodrigo Mariano,Licenciatura en Cs.Biológicas,male
+52,Ldo. Cs.Físicas,CORTIÑAS Rodrigo Gaston,Licenciatura en Cs.Físicas,male
+0,Dra. UBA(Química Biológica),COSENTINO María Soledad,Doctorado UBA(Química Biológica),female
+1,Profesora Ens.Med.y Sup.Química,COUSELO FERNANDEZ Maria Natalia,Profesorado en Ens.Med.y Sup.Química,female
+2,Dra. UBA(Química Biológica),COUTO Paula Monserrat,Doctorado UBA(Química Biológica),female
+3,Analista Universitaria de Computación,CROCE Maria Gabriela,Analisis Universitaria de Computación,female
+4,Profesora Ens.Med.y Sup.Física,CRUZATE Patricia Lucia,Profesorado en Ens.Med.y Sup.Física,female
+5,Esp. en Biotecnología Industrial,CUESTA Mariel,Especialista en Biotecnología Industrial,female
+6,Dr. UBA(Química Industrial),CUETO Mario Alberto,Doctorado UBA(Química Industrial),male
+7,Dr. UBA(Cs.Físicas),CUEVAS Mauro Alberto,Doctorado UBA(Cs.Físicas),male
+8,Dra. UBA(Cs.Biológicas),DA RE Cristina Verónica,Doctorado UBA(Cs.Biológicas),female
+9,Esp. en Seguridad e Higiene Ámbito Laboral,DA SILVA FRANCA Antonio Jose,Especialista en Seguridad e Higiene Ámbito Laboral,male
+10,Analista Universitario de Computación,D'ALESSANDRO Jorge Daniel,Analisis Universitario de Computación,male
+11,Lda. Cs.Químicas,DAVICINO Micaela,Licenciatura en Cs.Químicas,female
+12,Analista Universitaria de Computación,DE FILIPPIS Noelia Soledad,Analisis Universitaria de Computación,female
+13,Ldo. Cs.Físicas,DE GREGORIO Juan Ignacio,Licenciatura en Cs.Físicas,male
+14,Lda. Cs.Biológicas,DE GROOT Grecia Stefania,Licenciatura en Cs.Biológicas,female
+15,Lda. Cs.Biológicas,de HOZ Milagros,Licenciatura en Cs.Biológicas,andy
+16,Dra. UBA(Cs.Biológicas),de la BARRA Paula Maria,Doctorado UBA(Cs.Biológicas),female
+17,Dra. UBA(Química Biológica),DE LUCA Paola,Doctorado UBA(Química Biológica),female
+18,Ldo. Cs.Físicas,de OLAZABAL Ramiro,Licenciatura en Cs.Físicas,andy
+19,Dr. UBA(Cs.Biológicas),DE SIMONE Gabriel Alejandro,Doctorado UBA(Cs.Biológicas),male
+20,Ldo. Cs.Físicas,DEBAIS Gabriel Federico,Licenciatura en Cs.Físicas,male
+21,Ldo. Cs.Computación,DEFAGOT Adrián Gabriel,Licenciatura en Cs.Computación,male
+22,Dra. UBA(Cs.Biológicas),DEGESE María Sol,Doctorado UBA(Cs.Biológicas),female
+23,Esp. en Conservación de la Biodiversidad,DEL BO Maria Jose,Especialista en Conservación de la Biodiversidad,female
+24,Esp. en Conservación de la Biodiversidad,del SASTRE María Victoria,Especialista en Conservación de la Biodiversidad,female
+25,Dr. UBA(Cs.Biológicas),DELGADIN Tomás Horacio,Doctorado UBA(Cs.Biológicas),male
+26,Dr. UBA(Cs.Físicas),DELLA PICCA Fabricio Leandro,Doctorado UBA(Cs.Físicas),male
+27,Analista Universitario de Computación,DELLASOPPA Federico Juan,Analisis Universitario de Computación,male
+28,Dr. UBA(Cs.Computación),DELLE DONNE Diego Andres,Doctorado UBA(Cs.Computación),male
+29,Ldo. Cs.Físicas,DER Manuel,Licenciatura en Cs.Físicas,male
+30,Ldo. Cs.Físicas,DESCHLE Nicolás,Licenciatura en Cs.Físicas,male
+31,Ldo. Cs.Matemáticas,DESIMONI Juan,Licenciatura en Cs.Matemáticas,male
+32,Lda. Cs.Computación,DI PIAZZA Gabriela Melisa,Licenciatura en Cs.Computación,female
+33,Dra. UBA(Química Biológica),DI ROSSO Maria Emilia,Doctorado UBA(Química Biológica),female
+34,Ldo. Cs.Físicas,DI TULLIO Marco,Licenciatura en Cs.Físicas,male
+35,Profesora Ens.Med.y Sup.Biología,DÍAZ Ailen Magalí,Profesorado en Ens.Med.y Sup.Biología,female
+36,Ldo. Cs.Físicas,DIAZ Manuel Ignacio,Licenciatura en Cs.Físicas,male
+37,Dra. UBA(Química Biológica),DIETERLE Maria Eugenia,Doctorado UBA(Química Biológica),female
+38,Dra. UBA(Química Biológica),DIEZ Berenice Andrea,Doctorado UBA(Química Biológica),female
+39,Lda. Cs.Biológicas,DINCOFF Nadia Belen,Licenciatura en Cs.Biológicas,female
+40,Ldo. Cs.Biológicas,DIVITO Franco,Licenciatura en Cs.Biológicas,male
+41,Lda. Cs.Biológicas,DUCA Rocio Belen,Licenciatura en Cs.Biológicas,female
+42,Dra. UBA(Cs.Biológicas),EBERHARDT María Ayelén Teresita,Doctorado UBA(Cs.Biológicas),female
+43,Ldo. Cs.Matemáticas (CORREGIDO),ELENCWAJG René,Licenciatura en Cs.Matemáticas (CORREGIDO),male
+44,Ldo. Cs.Matemáticas,ESCUDERO Luis Alberto,Licenciatura en Cs.Matemáticas,male
+45,Dr. UBA(Cs.Biológicas),ESPAÑOL Esteban,Doctorado UBA(Cs.Biológicas),male
+46,Lda. Cs.Geológicas,ETIENOT Silvia Augusta Delfina,Licenciatura en Cs.Geológicas,female
+47,Dra. UBA(Cs.Biológicas),EXPOSITO Veronica,Doctorado UBA(Cs.Biológicas),female
+48,Lda. Cs.Biológicas,FABIANO Sofia,Licenciatura en Cs.Biológicas,female
+49,Lda. Cs.Geológicas,FALCIONI Florencia Estefania,Licenciatura en Cs.Geológicas,female
+50,Dr. UBA(Cs.Biológicas),FALDUTO Guido Hernan,Doctorado UBA(Cs.Biológicas),male
+51,Dr. UBA(Cs.Atmósfera y los Océanos),FARALL Rodolfo Andres,Doctorado UBA(Cs.Atmósfera y los Océanos),male
+52,Dra. UBA(Química Biológica),FASSOLARI Marisol,Doctorado UBA(Química Biológica),female
+0,Ldo. Cs.Biológicas,FEDERICCI Fernando,Licenciatura en Cs.Biológicas,male
+1,Lda. Cs.Biológicas,FELCHER Carla María,Licenciatura en Cs.Biológicas,female
+2,Ldo. Cs.Biológicas,FELDMAN Nicolás,Licenciatura en Cs.Biológicas,male
+3,Dra. UBA(Cs.Biológicas),FERDER Ianina Claudia,Doctorado UBA(Cs.Biológicas),female
+4,Ldo. Cs.Biológicas,FERGNANI Darío Martín,Licenciatura en Cs.Biológicas,male
+5,Analista Universitario de Computación,FERNANDEZ Diego,Analisis Universitario de Computación,male
+6,Bachiller Universitario Cs.Atmósfera,FERNANDEZ Joel Ezequiel,Bachillerato Universitario Cs.Atmósfera,male
+7,Dra. UBA(Cs.Biológicas),FERNANDEZ Natalia Brenda,Doctorado UBA(Cs.Biológicas),female
+8,Ldo. Cs.Matemáticas,FERNANDEZ VIDAL Tomás Ariel,Licenciatura en Cs.Matemáticas,male
+9,Ldo. Cs.Físicas,FERRERO Hugo Eduardo,Licenciatura en Cs.Físicas,male
+10,Dr. UBA(Química Biológica),FIGUEREDO Federico,Doctorado UBA(Química Biológica),male
+11,Dra. UBA(Cs.Físicas),FIGUEROA AGUIRRE Griselda Verónica,Doctorado UBA(Cs.Físicas),female
+12,Dra. UBA(Química Biológica),FLETCHER Sabrina Johanna,Doctorado UBA(Química Biológica),female
+13,Profesora Ens.Med.y Sup.Biología,FLUMIAN Carolina,Profesorado en Ens.Med.y Sup.Biología,female
+14,Ldo. Cs.Físicas,FOLGUEIRAS Jose Maria,Licenciatura en Cs.Físicas,male
+15,Asistente de Investigación en Física,FOLGUEIRAS Jose Maria,Asistencia de Investigación en Física,male
+16,Esp. en Exp.de Datos y Desc.de Conocimiento,FONDEVILA Damian Martin,Especialista en Exp.de Datos y Desc.de Conocimiento,male
+17,Lda. Cs.Físicas,FONS Elizabeth Myriam,Licenciatura en Cs.Físicas,female
+18,Asistente de Investigación en Física,FONS Elizabeth Myriam,Asistencia de Investigación en Física,female
+19,Esp. en Conservación de la Biodiversidad,FORERO SUAREZ Nadia Alexandra,Especialista en Conservación de la Biodiversidad,female
+20,Ldo. Cs.Químicas,FORTUNATI Lucas Gabriel,Licenciatura en Cs.Químicas,male
+21,Ldo. Cs.Físicas,FRASCINI Lucas Andrés,Licenciatura en Cs.Físicas,male
+22,Dr. UBA(Cs.Físicas),FREITAS Jose Nahuel,Doctorado UBA(Cs.Físicas),male
+23,Ldo. Cs.Físicas,FRISCO Leandro,Licenciatura en Cs.Físicas,male
+24,Dr. UBA(Química Biológica),FUCHS Julio Silvio,Doctorado UBA(Química Biológica),male
+25,Ldo. Cs.Biológicas,FUCHS WIGHTMAN Federico,Licenciatura en Cs.Biológicas,male
+26,Esp. en Biotecnología Industrial,FUNGUEIRO Manuel Facundo,Especialista en Biotecnología Industrial,male
+27,Ldo. Cs.Computación,FURLAN Norberto Andrés,Licenciatura en Cs.Computación,male
+28,Esp. en Estadística,GAHR Georgina,Especialista en Estadística,female
+29,Dr. UBA(Cs.Físicas),GALANTE Mariano,Doctorado UBA(Cs.Físicas),male
+30,Ldo. Cs.Químicas,GALILEA Agustín,Licenciatura en Cs.Químicas,male
+31,Ldo. Cs.Computación,GALLARDO DIEZ Guillermo Alejandro,Licenciatura en Cs.Computación,male
+32,Dra. UBA(Cs.Biológicas),GALLO Giovanna Lucrecia,Doctorado UBA(Cs.Biológicas),female
+33,Lda. Cs.Biológicas,GALOTTA Mariel,Licenciatura en Cs.Biológicas,female
+34,Analista Universitario de Computación,GAMBACCINI Ezequiel Darío,Analisis Universitario de Computación,male
+35,Dra. UBA(Química Biológica),GANTUZ Magdalena,Doctorado UBA(Química Biológica),female
+36,Dra. UBA(Química Biológica),GARATE Ximena,Doctorado UBA(Química Biológica),female
+37,Ldo. Cs.Químicas,GARCIA CAMBON Tomas Agustin,Licenciatura en Cs.Químicas,male
+38,Ldo. Cs.Biológicas,GARCIA HOURQUET Mariano,Licenciatura en Cs.Biológicas,male
+39,Dr. UBA(Cs.Geológicas),GARCIA Juan Manuel,Doctorado UBA(Cs.Geológicas),male
+40,Ldo. Cs.Físicas,GARCIA REPARAZ Daniel Carlos,Licenciatura en Cs.Físicas,male
+41,Bachiller Universitario Cs.Atmósfera,GARCIA SAGGION Mariano Esteban,Bachillerato Universitario Cs.Atmósfera,male
+42,Dra. UBA(Química Biológica),GARGIULO Lucía,Doctorado UBA(Química Biológica),female
+43,"Dra. UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",GASPAR TOSATO Maira,"Doctorado UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",female
+44,Esp. en Higiene y Seguridad en el Trabajo,GASPARINI Martin Alberto,Especialista en Higiene y Seguridad en el Trabajo,male
+45,Lda. Cs.Biológicas,GATTAS Maria Jose,Licenciatura en Cs.Biológicas,female
+46,Analista Universitario de Computación,GAUSTEIN Diego,Analisis Universitario de Computación,male
+47,Dra. UBA(Química Biológica),GEFFNER Laura Judith,Doctorado UBA(Química Biológica),female
+48,Dr. UBA(Cs.Computación),GEIER Maximiliano Ivan,Doctorado UBA(Cs.Computación),male
+49,Dr. UBA(Química Biológica),GENTILINI Lucas Daniel,Doctorado UBA(Química Biológica),male
+50,Lda. Ciencia y Tecnología de Alimentos,GIGENA Cecilia Lucia,Licenciatura en Ciencia y Tecnología de Alimentos,female
+51,Analista Universitario de Computación,GIL Santiago Luis,Analisis Universitario de Computación,male
+52,Dra. UBA(Química Orgánica),GILLANDERS Florencia,Doctorado UBA(Química Orgánica),female
+0,"Dr. UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",GIMENEZ Gustavo,"Doctorado UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",male
+1,Lda. Cs.Biológicas,GIORELLO María Belén,Licenciatura en Cs.Biológicas,female
+2,Ldo. Cs.Computación,GLEICHGERRCHT Nicolás Matías,Licenciatura en Cs.Computación,male
+3,Ldo. Cs.Biológicas,GOBBI Tomas,Licenciatura en Cs.Biológicas,male
+4,Dra. UBA(Cs.Biológicas),GOMEZ ACUÑA Luciana Inés,Doctorado UBA(Cs.Biológicas),female
+5,Ldo. Cs.Químicas,GOMEZ Christian Andres,Licenciatura en Cs.Químicas,male
+6,Profesor Ens.Med.y Sup.Matemática,GOMEZ CIAPPONI Lautaro,Profesorado en Ens.Med.y Sup.Matemática,male
+7,Magister UBA en Exp.de Datos y Desc.de Conocimiento,GOMEZ GARCIA Carlos Andres,Magisterio UBA en Exp.de Datos y Desc.de Conocimiento,male
+8,Dra. UBA(Cs.Biológicas),GÓMEZ Natalia Valeria,Doctorado UBA(Cs.Biológicas),female
+9,Dra. UBA(Cs.Biológicas),GOMIZ Natalia Elva,Doctorado UBA(Cs.Biológicas),female
+10,Lda. Cs.Biológicas,GONDA Catalina Maria,Licenciatura en Cs.Biológicas,female
+11,Dra. UBA(Cs.Biológicas),GONZALEZ Betina,Doctorado UBA(Cs.Biológicas),female
+12,Esp. en Higiene y Seguridad en el Trabajo,GONZALEZ Julieta Romina,Especialista en Higiene y Seguridad en el Trabajo,female
+13,Esp. en Exp.de Datos y Desc.de Conocimiento,GONZALEZ Sebastian Martin,Especialista en Exp.de Datos y Desc.de Conocimiento,male
+14,Ldo. Cs.Químicas,GOTTAS Gerardo Jorge,Licenciatura en Cs.Químicas,male
+15,Dra. UBA(Cs.Biológicas),GOWLAND SAINZ Maria Florencia,Doctorado UBA(Cs.Biológicas),female
+16,Ldo. Cs.Geológicas,GOYBERG Mateo,Licenciatura en Cs.Geológicas,male
+17,Ldo. Cs.Computación,GRAIÑO Claudio Ariel,Licenciatura en Cs.Computación,male
+18,Ldo. Paleontología,GRANT Juan Pablo,Licenciatura en Paleontología,male
+19,Dr. UBA(Cs.Biológicas),GRASSI Emanuel Marcelo,Doctorado UBA(Cs.Biológicas),male
+20,Ldo. Paleontología,GREPPI Carlos Daniel,Licenciatura en Paleontología,male
+21,Profesora Ens.Med.y Sup.Biología,GROTZ Eugenia,Profesorado en Ens.Med.y Sup.Biología,female
+22,Lda. Cs.Químicas,GUARDA Eliana Elisa,Licenciatura en Cs.Químicas,female
+23,Ldo. Cs.Matemáticas,GUARNIERI L eandro,Licenciatura en Cs.Matemáticas,male
+24,Ldo. Cs.Biológicas,GUERRA ALDAZABAL Pablo,Licenciatura en Cs.Biológicas,male
+25,Esp. en Conservación de la Biodiversidad,GUERREIRO Romina Alejandra,Especialista en Conservación de la Biodiversidad,female
+26,"Magister UBA en Bromatología y Tecnología de laIndustrialización de los Alimentos",GUERRERO LEÓN Beatriz Alexandra,"Magisterio UBA en Bromatología y Tecnología de laIndustrialización de los Alimentos",female
+27,Esp. en Bromatología y Tecnología de Alimentos,GUERRERO LEÓN Beatriz Alexandra,Especialista en Bromatología y Tecnología de Alimentos,female
+28,Esp. en Exp.de Datos y Desc.de Conocimiento,GUERRERO RESTREPO Jimmy Mateo,Especialista en Exp.de Datos y Desc.de Conocimiento,male
+29,Lda. Cs.Geológicas,GUIMAREY Anabella Romina,Licenciatura en Cs.Geológicas,female
+30,Ldo. Cs.Físicas,GULICH Ernesto Iván,Licenciatura en Cs.Físicas,male
+31,Ldo. Cs.Químicas,GUTIERREZ SUBURU Matias Ezequiel,Licenciatura en Cs.Químicas,male
+32,Dra. UBA(Cs.Físicas),GUZMÁN MONSALVE María José,Doctorado UBA(Cs.Físicas),female
+33,Dra. UBA(Cs.Biológicas),HANISCH Priscila Elena,Doctorado UBA(Cs.Biológicas),female
+34,Profesora Ens.Med.y Sup.Física,HANZA María Silvina,Profesorado en Ens.Med.y Sup.Física,female
+35,Esp. en Exp.de Datos y Desc.de Conocimiento,HERAS Patricia Susana,Especialista en Exp.de Datos y Desc.de Conocimiento,female
+36,Profesor Ens.Med.y Sup.Biología,HERNANDEZ Fernando Sebastian,Profesorado en Ens.Med.y Sup.Biología,male
+37,Esp. en Bromatología y Tecnología de Alimentos,HERNANDEZ MORALES Paul Sebastian,Especialista en Bromatología y Tecnología de Alimentos,male
+38,Magister UBA en Física Médica,HERNANDEZ PIEDRAHITA Pablo Andres,Magisterio UBA en Física Médica,male
+39,Analista Universitario de Computación,HERNANDEZ Santiago,Analisis Universitario de Computación,male
+40,Ldo. Cs.Biológicas,HERRERA Agustin Hector,Licenciatura en Cs.Biológicas,male
+41,Ldo. Cs.Físicas,HERRERA Yago,Licenciatura en Cs.Físicas,male
+42,Ldo. Cs.Biológicas,HITZFELDER Gustavo,Licenciatura en Cs.Biológicas,male
+43,Dra. UBA(Química Biológica),HOLUBIEC Mariana Inés,Doctorado UBA(Química Biológica),female
+44,Ldo. Cs.Biológicas,HUALLPA Carlos Leonel,Licenciatura en Cs.Biológicas,male
+45,Dra. UBA(Cs.Biológicas),IACHETTI Clara Margarita,Doctorado UBA(Cs.Biológicas),female
+46,Lda. Cs.Biológicas,IBAÑEZ Claudia Valentina,Licenciatura en Cs.Biológicas,female
+47,Bachiller Universitario Cs.Atmósfera,IBAÑEZ Nicolas,Bachillerato Universitario Cs.Atmósfera,male
+48,Ldo. Cs.Computación,IGLESIAS Axel Javier,Licenciatura en Cs.Computación,male
+49,Analista Universitario de Computación,IGLESIAS Axel Javier,Analisis Universitario de Computación,male
+50,Ldo. Cs.Físicas,IGLESIAS Matias Nehuen,Licenciatura en Cs.Físicas,male
+51,Lda. Cs.Biológicas,ISAJA Luciana,Licenciatura en Cs.Biológicas,female
+0,Lda. Cs.Biológicas,IVANI Paola Carla,Licenciatura en Cs.Biológicas,female
+1,Dr. UBA(Cs.Biológicas),IZZO Franco,Doctorado UBA(Cs.Biológicas),male
+2,Lda. Cs.Biológicas,JABLOÑSKI Martina,Licenciatura en Cs.Biológicas,female
+3,Esp. en Exp.de Datos y Desc.de Conocimiento,JIMENEZ FORERO Jairo Andres,Especialista en Exp.de Datos y Desc.de Conocimiento,male
+4,Bachiller Universitario Cs.Atmósfera,JONES Nadia Gianina,Bachillerato Universitario Cs.Atmósfera,female
+5,Ldo. Cs.Geológicas,JUAREZ Pablo Daniel,Licenciatura en Cs.Geológicas,male
+6,Profesora Ens.Med.y Sup.Biología,JUGUERA CANTELOUP Johanna Hilen,Profesorado en Ens.Med.y Sup.Biología,female
+7,Dra. UBA(Cs.Atmósfera y los Océanos),KAHL Lucia Carolina,Doctorado UBA(Cs.Atmósfera y los Océanos),female
+8,Analista Universitario de Computación,KANTOR Sacha Sebastian,Analisis Universitario de Computación,mostly_female
+9,Dra. UBA(Cs.Biológicas),KAZLAUSKAS Nadia,Doctorado UBA(Cs.Biológicas),female
+10,Ldo. Cs.Matemáticas,KERNER Gaspard,Licenciatura en Cs.Matemáticas,male
+11,Ldo. Cs.Químicas,KILDEGAARD Pablo Gustavo,Licenciatura en Cs.Químicas,male
+12,Lda. Cs.Biológicas,KLIGER Marlene,Licenciatura en Cs.Biológicas,female
+13,Lda. Cs.Físicas,KNEES Paulina,Licenciatura en Cs.Físicas,female
+14,Dr. UBA(Cs.Matemáticas),KOHEN Daniel,Doctorado UBA(Cs.Matemáticas),male
+15,Esp. en Biotecnología Industrial,KOLODZIEJCZYK Daniel Heraldo,Especialista en Biotecnología Industrial,male
+16,Ldo. Cs.Biológicas,KOLOMENSKI Jorge Emilio,Licenciatura en Cs.Biológicas,male
+17,Ldo. Cs.Biológicas,KREIMAN Lucas Eli,Licenciatura en Cs.Biológicas,male
+18,Lda. Cs.Biológicas,KUBACZKA ZOPPI Maria Guillermina Jazmin,Licenciatura en Cs.Biológicas,female
+19,Ldo. Cs.Físicas,KUPERMAN Martin Pablo,Licenciatura en Cs.Físicas,male
+20,Dr. UBA(Cs.Biológicas),LA GRECA Alejandro Damian,Doctorado UBA(Cs.Biológicas),male
+21,Dra. UBA(Química Biológica),LABANDA Maria Soledad,Doctorado UBA(Química Biológica),female
+22,Ldo. Cs.Físicas,LACAPMESURE Axel Mauro,Licenciatura en Cs.Físicas,male
+23,Dra. UBA(Cs.Biológicas),LACORETZ Mariela Veronica,Doctorado UBA(Cs.Biológicas),female
+24,Dra. UBA(Cs.Biológicas),LAFAILLE Celina,Doctorado UBA(Cs.Biológicas),female
+25,Ldo. Cs.Físicas,LAGOMARSINO de LEON ROIG Pedro,Licenciatura en Cs.Físicas,andy
+26,Dra. UBA(Química Biológica),LAISECA Julieta Eva,Doctorado UBA(Química Biológica),female
+27,Ldo. Cs.Biológicas,LAMMARDO Leandro,Licenciatura en Cs.Biológicas,male
+28,Ldo. Cs.Biológicas,LANGER Tomas,Licenciatura en Cs.Biológicas,male
+29,Ldo. Cs.Físicas,LAROCCA Martín,Licenciatura en Cs.Físicas,male
+30,Esp. en Exp.de Datos y Desc.de Conocimiento,LASO Ricardo Manuel,Especialista en Exp.de Datos y Desc.de Conocimiento,male
+31,Ldo. Cs.Biológicas,LASSA ORTIZ Javier Nahuel,Licenciatura en Cs.Biológicas,mostly_male
+32,Dr. UBA(Cs.Biológicas),LAURETTA Daniel Marcelo,Doctorado UBA(Cs.Biológicas),male
+33,Dr. UBA(Cs.Biológicas),LAVINIA OBLANCA Pablo Damian,Doctorado UBA(Cs.Biológicas),male
+34,Esp. en Conservación de la Biodiversidad,LAZZARI Lucia Belen,Especialista en Conservación de la Biodiversidad,female
+35,Ldo. Cs.Computación,LEBRON Federico Javier,Licenciatura en Cs.Computación,male
+36,Ldo. Paleontología,LEHMANN Oscar Emilio Rodrigo,Licenciatura en Paleontología,male
+37,Dr. UBA(Cs.Biológicas),LENCINA Franco Daniel Alberto,Doctorado UBA(Cs.Biológicas),male
+38,Lda. Cs.Biológicas,LENCINAS Sol,Licenciatura en Cs.Biológicas,female
+39,Dr. UBA(Cs.Físicas),LENGYEL Iván Miguel,Doctorado UBA(Cs.Físicas),male
+40,Ldo. Cs.Físicas,LESCANO Eric Yair,Licenciatura en Cs.Físicas,male
+41,Esp. en Biotecnología Industrial,LESCANO Juan Ignacio,Especialista en Biotecnología Industrial,male
+42,Ldo. Cs.Biológicas,LICHTIG Pablo,Licenciatura en Cs.Biológicas,male
+43,Lda. Cs.Biológicas,LICHY Micaela Zoe,Licenciatura en Cs.Biológicas,female
+44,Magister UBA en Ciencias Ambientales,Llera Maria Angela,Magisterio UBA en Ciencias Ambientales,female
+45,Dr. UBA(Cs.Computación),LOMBARDI Carlos Alberto,Doctorado UBA(Cs.Computación),male
+46,Dr. UBA(Cs.Físicas),LOPEZ GRANDE Ignacio Hernan,Doctorado UBA(Cs.Físicas),male
+47,Lda. Cs.Biológicas,LOPEZ Luisina Azul,Licenciatura en Cs.Biológicas,female
+48,Esp. en Exp.de Datos y Desc.de Conocimiento,LOPEZ Maria Lucrecia,Especialista en Exp.de Datos y Desc.de Conocimiento,female
+49,Dr. UBA(Cs.Geológicas),LOPEZ Ruben Alvaro,Doctorado UBA(Cs.Geológicas),male
+50,Esp. en Exp.de Datos y Desc.de Conocimiento,LORENZATTO Pablo Andres,Especialista en Exp.de Datos y Desc.de Conocimiento,male
+51,Dra. UBA(Química Biológica),LOSINO Noelia Ivana,Doctorado UBA(Química Biológica),female
+52,Dra. UBA(Cs.Geológicas),LOSSADA Ana Clara,Doctorado UBA(Cs.Geológicas),female
+0,Dra. UBA(Química Biológica),LUCERO Maria Soledad,Doctorado UBA(Química Biológica),female
+1,Analista Universitario de Computación,LUINI Julián Mauro,Analisis Universitario de Computación,male
+2,Esp. en estadística para Cs. De la Salud,LUNA HISANO Cecilia Verónica,Especialista en estadística para Cs. De la Salud,female
+3,Dra. UBA(Cs.Biológicas),LUNA Maria Celeste,Doctorado UBA(Cs.Biológicas),female
+4,Lda. Cs.Físicas,LUQUE Solange Elizabeth,Licenciatura en Cs.Físicas,female
+5,Dr. UBA(Cs.Matemáticas),MAAS Martín Daniel,Doctorado UBA(Cs.Matemáticas),male
+6,Analista Universitario de Computación,MACHICADO MACIAS Alvaro Bruno,Analisis Universitario de Computación,male
+7,Lda. Cs.Físicas,MAESTRI Leila,Licenciatura en Cs.Físicas,female
+8,Esp. en Bromatología y Tecnología de Alimentos,MALDONADO HARO Maria Luisa,Especialista en Bromatología y Tecnología de Alimentos,female
+9,Esp. en Seguridad e Higiene Ámbito Laboral,MALHEIROS GUEDES Caroline,Especialista en Seguridad e Higiene Ámbito Laboral,female
+10,Lda. Ciencia y Tecnología de Alimentos,MALINVERNI Julieta,Licenciatura en Ciencia y Tecnología de Alimentos,female
+11,Analista Universitario de Computación,MANCUSO Emiliano,Analisis Universitario de Computación,male
+12,Ldo. Cs.Químicas,MANGIALARDI Guillermo Adrián,Licenciatura en Cs.Químicas,male
+13,Esp. en Exp.de Datos y Desc.de Conocimiento,MANGIANTE Romina Paola,Especialista en Exp.de Datos y Desc.de Conocimiento,female
+14,Esp. en Higiene y Seguridad en el Trabajo,MANRIQUE BEJARANO Barbara Andrea,Especialista en Higiene y Seguridad en el Trabajo,female
+15,Dra. UBA(Química Biológica),MANSILLA Sabrina Florencia,Doctorado UBA(Química Biológica),female
+16,Ldo. Cs.Biológicas,MARCHISIO Nahuel Matias,Licenciatura en Cs.Biológicas,male
+17,Esp. en Comunicación Pública de la Ciencia y la Tecnología,MARCÍAS María Laura,Especialista en Comunicación Pública de la Ciencia y la Tecnología,female
+18,Profesora Ens.Med.y Sup.Biología,MARINI Victoria,Profesorado en Ens.Med.y Sup.Biología,female
+19,Analista Universitario de Computación,MAROTTOLI Daniela,Analisis Universitario de Computación,female
+20,Dra. UBA(Cs.Biológicas),MARQUEZ Maria Mercedes,Doctorado UBA(Cs.Biológicas),female
+21,Dr. UBA(Química Biológica),MARRERO DIAZ de  VILLEGAS Ruben,Doctorado UBA(Química Biológica),andy
+22,Ldo. Cs.Físicas,MARRONE Juan Ignacio,Licenciatura en Cs.Físicas,male
+23,Dr. UBA(Cs.Físicas),MARTIN Luis Nicolas,Doctorado UBA(Cs.Físicas),male
+24,Dr. UBA(Cs.Biológicas),MARTINEZ Mariano Ignacio,Doctorado UBA(Cs.Biológicas),male
+25,Ldo. Cs.Químicas,MARTINOVICH Julian Gustavo,Licenciatura en Cs.Químicas,male
+26,Bachiller Universitario Cs.Atmósfera,MARTIRE Ezequiel Hernán,Bachillerato Universitario Cs.Atmósfera,male
+27,Esp. en Exp.de Datos y Desc.de Conocimiento,MATOS Jorge Luis,Especialista en Exp.de Datos y Desc.de Conocimiento,male
+28,Lda. Cs.Químicas,MATTICOLI Maria Agustina Lourdes,Licenciatura en Cs.Químicas,female
+29,Lda. Ciencia y Tecnología de Alimentos,MATYASZ Alicia,Licenciatura en Ciencia y Tecnología de Alimentos,female
+30,Dr. UBA(Cs.Biológicas),MAUR Damián Gustavo,Doctorado UBA(Cs.Biológicas),male
+31,Profesor Ens.Med.y Sup.Física,MAZA Juan Manuel,Profesorado en Ens.Med.y Sup.Física,male
+32,Dr. UBA(Cs.Matemáticas),MAZZITELLI Martín Diego,Doctorado UBA(Cs.Matemáticas),male
+33,Analista Universitario de Computación,MEDINA Martin Gonzalo,Analisis Universitario de Computación,male
+34,Ldo. Cs.Computación,MEDINA Sergio Andres,Licenciatura en Cs.Computación,male
+35,Bachiller Universitaria Cs.Atmósfera,MEDONE Magali,Bachillerato Universitaria Cs.Atmósfera,female
+36,Ldo. Cs.Físicas,MELILLO Jorge Humberto,Licenciatura en Cs.Físicas,male
+37,Profesora Ens.Med.y Sup.Física,MENA Azucena Alba,Profesorado en Ens.Med.y Sup.Física,female
+38,Ldo. Cs.Matemáticas,MENCONI Juan Manuel,Licenciatura en Cs.Matemáticas,male
+39,Dr. UBA(Química Biológica),MENDEZ HUERGO Santiago Patricio,Doctorado UBA(Química Biológica),male
+40,Dra. UBA(Cs.Biológicas),MENDEZ Marcela Soledad,Doctorado UBA(Cs.Biológicas),female
+41,Bachiller Universitario Cs.Atmósfera,MERINO Rodrigo Andres,Bachillerato Universitario Cs.Atmósfera,male
+42,Lda. Cs.Biológicas,MICHOU ETCHEVERRIA Gabriela Carol,Licenciatura en Cs.Biológicas,female
+43,Dra. UBA(Cs.Biológicas),MIGUELEZ FERNANDEZ Anabel Maria Mercedes,Doctorado UBA(Cs.Biológicas),female
+44,Dra. UBA(Cs.Geológicas),MILANESE Florencia Nidia,Doctorado UBA(Cs.Geológicas),female
+45,Profesora ens.Med.y Sup.biología,MILKOVIC Mayra,Profesorado en ens.Med.y Sup.biología,female
+46,Dr. UBA(Cs.Físicas),MINGARI Leonardo Alejandro,Doctorado UBA(Cs.Físicas),male
+47,Esp. en Exp.de Datos y Desc.de Conocimiento,MINOTTI Priscilla Gail,Especialista en Exp.de Datos y Desc.de Conocimiento,female
+48,Ldo. Cs.Biológicas,MIRKIN Federico Gabriel,Licenciatura en Cs.Biológicas,male
+49,Ldo. Cs.Químicas,MISSONI Leandro Luis,Licenciatura en Cs.Químicas,male
+50,Dr. UBA(Cs.Matemáticas),MOGNI Andrés Pablo,Doctorado UBA(Cs.Matemáticas),male
+51,Lda. Cs.Matemáticas,MOLDAVSKY Irina,Licenciatura en Cs.Matemáticas,female
+52,"Dr. UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",MONTES de OCA AVALOS Juan Manuel,"Doctorado UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",andy
+0,Ldo. Cs.Físicas,MONTI Federico,Licenciatura en Cs.Físicas,male
+1,Dra. UBA(Química Biológica),MONZÓN Casandra Margarita,Doctorado UBA(Química Biológica),female
+2,"Dr. UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",MORALES VASQUEZ Miguel Angel,"Doctorado UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",male
+3,Ldo. Cs.Biológicas,MORANDO Nicolas,Licenciatura en Cs.Biológicas,male
+4,Lda. Cs.Biológicas,MORDENTE BARRIGA Adriana,Licenciatura en Cs.Biológicas,female
+5,Dra. UBA(Cs.Biológicas),MORENO AYALA Mariela Alejandra,Doctorado UBA(Cs.Biológicas),female
+6,Dra. UBA(Cs.Matemáticas),MORENO Verónica,Doctorado UBA(Cs.Matemáticas),female
+7,Dra. UBA(Cs.Biológicas),MOSCA TORRES Maria Eugenia,Doctorado UBA(Cs.Biológicas),female
+8,Profesor Ens.Med.y Sup.Biología,MOYANO Sebastian Ramon,Profesorado en Ens.Med.y Sup.Biología,male
+9,"Dra. UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",MOZHZHUKHINA Nataliia,"Doctorado UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",female
+10,Lda. Cs.Físicas,MÜLLER Stephanie Andrea,Licenciatura en Cs.Físicas,female
+11,Lda. Cs.Químicas,MÜLLER Verónica,Licenciatura en Cs.Químicas,female
+12,Bachiller Universitario Cs.Atmósfera,MUNDEL Nicolas Alejandro,Bachillerato Universitario Cs.Atmósfera,male
+13,Dr. UBA(Cs.Biológicas),NAIPAUER Julián,Doctorado UBA(Cs.Biológicas),male
+14,Lda. Cs.Biológicas,NALLY Maria Ayelen,Licenciatura en Cs.Biológicas,female
+15,Dra. UBA(Cs.Biológicas),NASIF Sofia,Doctorado UBA(Cs.Biológicas),female
+16,Asistente de Investigación en Física,NASTASI Franco Gabriel,Asistencia de Investigación en Física,male
+17,Profesora Ens.Med.y Sup.Biología,NAVARRO Liliana Evelin,Profesorado en Ens.Med.y Sup.Biología,female
+18,Dr. UBA(Cs.Computación),NEGROTTO Daniel,Doctorado UBA(Cs.Computación),male
+19,Esp. en Exp.de Datos y Desc.de Conocimiento,NEIBURG Perla Juana,Especialista en Exp.de Datos y Desc.de Conocimiento,female
+20,Dr. UBA(Química Biológica),NEIMAN Gabriel,Doctorado UBA(Química Biológica),male
+21,Profesora Ens.Med.y Sup.Física,NEME Maria Lucia,Profesorado en Ens.Med.y Sup.Física,female
+22,Lda. Ciencia y Tecnología de Alimentos,NICOLINI Carolina,Licenciatura en Ciencia y Tecnología de Alimentos,female
+23,Lda. Cs.Biológicas,NICOSIA Gabriela,Licenciatura en Cs.Biológicas,female
+24,Lda. Cs.Biológicas,NIDERHAUS Maria Cecilia,Licenciatura en Cs.Biológicas,female
+25,Dra. UBA(Química Biológica),NOVAL Maria Gabriela,Doctorado UBA(Química Biológica),female
+26,Ldo. Cs.Físicas,OKS David,Licenciatura en Cs.Físicas,male
+27,Ldo. Cs.Geológicas,OLAIZOLA Ezequiel Rodrigo,Licenciatura en Cs.Geológicas,male
+28,Esp. en Estadística,OLEGO Tomás Alberto,Especialista en Estadística,male
+29,Dra. UBA(Química Biológica),OLIVERI Leda Maria,Doctorado UBA(Química Biológica),female
+30,Lda. Cs.Atmósfera,OLIVERI Paula Carolina,Licenciatura en Cs.Atmósfera,female
+31,Ldo. Cs.Biológicas,OLIVIERI Federico Alberto,Licenciatura en Cs.Biológicas,male
+32,Ldo. Cs.Químicas,OPPEZZO Guido Alejandro,Licenciatura en Cs.Químicas,male
+33,Lda. Cs.Químicas,ORBEA Sofía,Licenciatura en Cs.Químicas,female
+34,Dr. UBA(Cs.Biológicas),ORSI Ramiro,Doctorado UBA(Cs.Biológicas),male
+35,Lda. Cs.Químicas,OSES OLIVETO Camila Maite,Licenciatura en Cs.Químicas,female
+36,Esp. en Bromatología y Tecnología de Alimentos,PABON MENDOZA Monica Iomara,Especialista en Bromatología y Tecnología de Alimentos,female
+37,Lda. Cs.Biológicas,PACI Maria Antonella,Licenciatura en Cs.Biológicas,female
+38,Esp. en Estadística para Cs. de la Salud,PALMA Ileana Valeria,Especialista en Estadística para Cs. de la Salud,female
+39,Dra. UBA(Química Biológica),PAMPENA María Betina,Doctorado UBA(Química Biológica),female
+40,Ldo. Cs.Computación,PANARELLO Bernabé,Licenciatura en Cs.Computación,female
+41,Ldo. Cs.Biológicas,PARDO Agustin Maria,Licenciatura en Cs.Biológicas,male
+42,"Magister UBA en Bromatología y Tecnología de laIndustrialización de los Alimentos",PARDO GONZÁLEZ Ruth Margarita,"Magisterio UBA en Bromatología y Tecnología de laIndustrialización de los Alimentos",female
+43,Ldo. Cs.Físicas,PASSANANTE Sebastian Eduardo,Licenciatura en Cs.Físicas,male
+44,Dr. UBA(Cs.Físicas),PATTERSON German Agustin,Doctorado UBA(Cs.Físicas),male
+45,Esp. en Exp.de Datos y Desc.de Conocimiento,PAVIA Carlos Roberto,Especialista en Exp.de Datos y Desc.de Conocimiento,male
+46,"Dra. UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",PEINETTI Ana Sol,"Doctorado UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",female
+47,Ldo. Cs.Computación,PELLER Julian,Licenciatura en Cs.Computación,male
+48,Dr. UBA(Química Biológica),PELLIZZA PENA Leonardo Agustin,Doctorado UBA(Química Biológica),male
+49,Esp. en Conservación de la Biodiversidad,PEREIRA Pablo Daniel,Especialista en Conservación de la Biodiversidad,male
+50,Dra. UBA(Cs.Geológicas),PEREZ BEN Celeste Marina,Doctorado UBA(Cs.Geológicas),female
+51,Ldo. Cs.Físicas,PEREZ IPIÑA Juan Manuel,Licenciatura en Cs.Físicas,male
+0,Ldo. Cs.Geológicas,PEREZ Pablo Fernando,Licenciatura en Cs.Geológicas,male
+1,Dr. UBA(Química Biológica),PEREZ SAEZ Juan Manuel,Doctorado UBA(Química Biológica),male
+2,Dra. UBA(Cs.Biológicas),PÉREZ SIRKIN Daniela Irina,Doctorado UBA(Cs.Biológicas),female
+3,"Dra. UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",PEREZ SIRKIN Yamila Anahi,"Doctorado UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",female
+4,Lda. Cs.Geológicas,PERISSÉ Mercedes,Licenciatura en Cs.Geológicas,female
+5,Bachiller Universitario Cs.Atmósfera,PETINO ZAPPALA Ernesto Juan,Bachillerato Universitario Cs.Atmósfera,male
+6,Esp. en Comunicación Pública de la Ciencia y la Tecnología,PETRERA Erina,Especialista en Comunicación Pública de la Ciencia y la Tecnología,female
+7,Dra. UBA(Cs.Físicas),PETRUNGARO Gabriela,Doctorado UBA(Cs.Físicas),female
+8,Dra. UBA(Cs.Matemáticas),PEZZATTI Maria Laura,Doctorado UBA(Cs.Matemáticas),female
+9,Dra. UBA(Cs.Biológicas),PIANTANIDA Ana Paula,Doctorado UBA(Cs.Biológicas),female
+10,Lda. Cs.Computación,PICCHI María Silvana,Licenciatura en Cs.Computación,female
+11,Analista Universitaria de Computación,PICCHI María Silvana,Analisis Universitaria de Computación,female
+12,Lda. Cs.Biológicas,PICCO Soledad,Licenciatura en Cs.Biológicas,female
+13,Esp. en Higiene y Seguridad en el Trabajo,PIEDIMONTE Ciro Oscar,Especialista en Higiene y Seguridad en el Trabajo,male
+14,Dr. UBA(Cs.Físicas),PIERONI Pablo Emanuel,Doctorado UBA(Cs.Físicas),male
+15,Dr. UBA(Cs.Biológicas),PISCIOTTANO Francisco,Doctorado UBA(Cs.Biológicas),male
+16,Esp. en Exp.de Datos y Desc.de Conocimiento,POBLETE PANTONI Guillermo Facundo,Especialista en Exp.de Datos y Desc.de Conocimiento,male
+17,Lda. Cs.Computación,PODESTA Gabriela Laura,Licenciatura en Cs.Computación,female
+18,Dr. UBA(Cs.Físicas),POGGI Pablo Matias,Doctorado UBA(Cs.Físicas),male
+19,Esp. en Estadística para Cs. de la Salud,POLO María Laura,Especialista en Estadística para Cs. de la Salud,female
+20,Profesora Ens.Med.y Sup.Biología,POMERANTZ Mabel Alejandra,Profesorado en Ens.Med.y Sup.Biología,female
+21,Bachiller Universitario Cs.Atmósfera,POOLI Alejandro Martin,Bachillerato Universitario Cs.Atmósfera,male
+22,Ldo. Cs.Químicas,POPRITKIN Diego Fernando,Licenciatura en Cs.Químicas,male
+23,Dra. UBA(Química Biológica),PORRETTI Juliana Carla,Doctorado UBA(Química Biológica),female
+24,Dra. UBA(Química Biológica),PORTE ALCON Soledad,Doctorado UBA(Química Biológica),female
+25,Analista Universitario de Computación,PRADO RIESTRA Diego Fernando,Analisis Universitario de Computación,male
+26,Ldo. Cs.Biológicas,PRAT BARBOSA Gabriel,Licenciatura en Cs.Biológicas,male
+27,Esp. en Higiene y Seguridad en el Trabajo,PRESTER Diego Hernán,Especialista en Higiene y Seguridad en el Trabajo,male
+28,Ldo. Cs.Geológicas,PRINCIPI Sebastian Yoel,Licenciatura en Cs.Geológicas,male
+29,Dra. UBA(Química Biológica),PRUDKIN SILVA Cecilia Raquel,Doctorado UBA(Química Biológica),female
+30,Ldo. Cs.Computación,PULICE DONATTO Ignacio,Licenciatura en Cs.Computación,male
+31,"Magister UBA en Bromatología y Tecnología de laIndustrialización de los Alimentos",PUÑALES RODALES Martin,"Magisterio UBA en Bromatología y Tecnología de laIndustrialización de los Alimentos",male
+32,Dra. UBA(Química Biológica),QUESTA María,Doctorado UBA(Química Biológica),female
+33,Lda. Cs.Biológicas,QUEZADA María Josefina,Licenciatura en Cs.Biológicas,female
+34,Esp. en Seguridad e Higiene Ámbito Laboral,QUIROGA Maria de las Mercedes,Especialista en Seguridad e Higiene Ámbito Laboral,female
+35,Dr. UBA(Química Biológica),RADUSKY Leandro Gabriel,Doctorado UBA(Química Biológica),male
+36,Dra. UBA(Cs.Geológicas),RAFFI Maria Eugenia,Doctorado UBA(Cs.Geológicas),female
+37,Lda. Cs.Atmósfera,RAGGIO Gabriela Adriana,Licenciatura en Cs.Atmósfera,female
+38,Dra. UBA(Cs.Biológicas),RAIMONDI Vanina Belén,Doctorado UBA(Cs.Biológicas),female
+39,Dr. UBA(Cs.Computación),RAIMONDO Federico,Doctorado UBA(Cs.Computación),male
+40,Analista Universitario de Computación,RAMALLO Esteban Nicolás,Analisis Universitario de Computación,male
+41,Esp. en Bromatología y Tecnología de Alimentos,RAMIREZ TOVAR Andrea,Especialista en Bromatología y Tecnología de Alimentos,female
+42,Analista Universitario de Computación,RAMOLLINO Juan Manuel,Analisis Universitario de Computación,male
+43,Dra. UBA(Cs.Biológicas),RAMOS Carolina Samanta,Doctorado UBA(Cs.Biológicas),female
+44,Lda. Cs.Biológicas,RAPALINI Paula Marcela,Licenciatura en Cs.Biológicas,female
+45,Analista Universitario de Computación,RAPOSO Gonzalo Andres,Analisis Universitario de Computación,male
+46,Dra. UBA(Cs.Biológicas),REBOLO IFRÁN Natalia,Doctorado UBA(Cs.Biológicas),female
+47,Ldo. Cs.Matemáticas,RECA Sebastian Gustavo,Licenciatura en Cs.Matemáticas,male
+48,Dra. UBA(Química Biológica),RECOUVREUX María Sol,Doctorado UBA(Química Biológica),female
+49,Dra. UBA(Cs.Matemáticas),REY Carolina Ana,Doctorado UBA(Cs.Matemáticas),female
+50,Ldo. Cs.Biológicas,RIBUFFO Santiago,Licenciatura en Cs.Biológicas,male
+51,Lda. Cs.Biológicas,RIO CARRION Geraldine Isabel,Licenciatura en Cs.Biológicas,female
+0,Esp. en Exp.de Datos y Desc.de Conocimiento,RIOS Leandro Martín,Especialista en Exp.de Datos y Desc.de Conocimiento,male
+1,Ldo. Cs.Biológicas,RIOVITTI Bruno,Licenciatura en Cs.Biológicas,male
+2,Dr. UBA(Cs.Biológicas),RIVAS Juan Gabriel,Doctorado UBA(Cs.Biológicas),male
+3,Ldo. Cs.Matemáticas,ROBBIO Bruno,Licenciatura en Cs.Matemáticas,male
+4,Esp. en Bromatología y Tecnología de Alimentos,ROCHI Lucia,Especialista en Bromatología y Tecnología de Alimentos,female
+5,Lda. Cs.Biológicas,RODRIGUEZ FERRANTE Guadalupe,Licenciatura en Cs.Biológicas,female
+6,Dra. UBA(Cs.Físicas),RODRIGUEZ GARRAZA Ana Lucía,Doctorado UBA(Cs.Físicas),female
+7,Ldo. Cs.Físicas,RODRIGUEZ Martín Emiliano,Licenciatura en Cs.Físicas,male
+8,Lda. Cs.Geológicas,RODRIGUEZ PICEDA Constanza,Licenciatura en Cs.Geológicas,female
+9,Dr. UBA(Cs.Biológicas),ROESLER Carlos Ignacio,Doctorado UBA(Cs.Biológicas),male
+10,Ldo. Cs.Físicas,ROITBERG Esteban Gabriel,Licenciatura en Cs.Físicas,male
+11,Esp. en Conservación de la Biodiversidad,ROJAS BARRIOS Adriana Carolina,Especialista en Conservación de la Biodiversidad,female
+12,Esp. en Estadística para Cs. de la Salud,ROJAS SAUNERO Liliana Paloma,Especialista en Estadística para Cs. de la Salud,female
+13,Dr. UBA(Cs.Biológicas),ROMANO Gonzalo Matias,Doctorado UBA(Cs.Biológicas),male
+14,Ldo. Cs.Biológicas,ROMEI Francisco,Licenciatura en Cs.Biológicas,male
+15,Ldo. Cs.Biológicas,ROMERO Agustín,Licenciatura en Cs.Biológicas,male
+16,Ldo. Cs.Químicas,RONCONI Mauricio Lisandro,Licenciatura en Cs.Químicas,male
+17,Dra. UBA(Cs.Biológicas),ROSCIANO Natalia Gimena,Doctorado UBA(Cs.Biológicas),female
+18,Analista Universitario de Computación,ROSNER Nicolas Leandro,Analisis Universitario de Computación,male
+19,"Dr. UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",ROSSI Leonardo,"Doctorado UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",male
+20,Esp. en Biotecnología Industrial,ROTHACHER Maria Silvina,Especialista en Biotecnología Industrial,female
+21,Técnico en Meteorología Sinóptica,ROUCO OLIVA Martin Santiago,Tecnicatura en Meteorología Sinóptica,male
+22,Lda. Cs.Biológicas,RUBIN Ayelen,Licenciatura en Cs.Biológicas,female
+23,Dr. UBA(Cs.Biológicas),RUGOLO Maximiliano,Doctorado UBA(Cs.Biológicas),male
+24,Dr. UBA(Cs.Biológicas),SABARIS DI LORENZO Gonzalo Julian,Doctorado UBA(Cs.Biológicas),male
+25,Lda. Cs.Biológicas,SABIO Mariana Corina,Licenciatura en Cs.Biológicas,female
+26,Esp. en Biotecnología Industrial,SALAS Claudia Valeria,Especialista en Biotecnología Industrial,female
+27,Profesora Ens.Med.y Sup.Biología,SALAVERRY Luciana Soledad,Profesorado en Ens.Med.y Sup.Biología,female
+28,Lda. Cs.Matemáticas,SALINOVICH Mabel Alicia,Licenciatura en Cs.Matemáticas,female
+29,Ldo. Cs.Químicas,SALVATI Brian Ezequiel,Licenciatura en Cs.Químicas,male
+30,Dr. UBA(Cs.Biológicas),SAN MARTIN Alvaro,Doctorado UBA(Cs.Biológicas),male
+31,Lda. Cs.Biológicas,SAN MARTIN Rodrigo,Licenciatura en Cs.Biológicas,male
+32,Ldo. Cs.Biológicas,SANCHEZ ELIA Justo,Licenciatura en Cs.Biológicas,male
+33,Bachiller Universitaria Cs.Atmósfera,SANCHEZ MARINO Manuela,Bachillerato Universitaria Cs.Atmósfera,female
+34,"Dra. UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",SANCHEZ MONTILVA Olga Carolina,"Doctorado UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",female
+35,Dr. UBA(Cs.Físicas),SANCHEZ VIETTO Juan Ignacio,Doctorado UBA(Cs.Físicas),male
+36,Lda. Cs.Biológicas,SANCIO Mariana,Licenciatura en Cs.Biológicas,female
+37,Lda. Cs.Físicas,SANDÁ SEOANE Rosa María,Licenciatura en Cs.Físicas,female
+38,Dr. UBA(Cs.Biológicas),SANTACROCE Ignacio,Doctorado UBA(Cs.Biológicas),male
+39,Ldo. Cs.Biológicas,SANTILLAN Emilio Manuel,Licenciatura en Cs.Biológicas,male
+40,Ldo. Cs.Químicas,SANTOS Ignacio,Licenciatura en Cs.Químicas,male
+41,Dr. UBA(Cs.Físicas),SANZ PERL HERNANDEZ Yonatan,Doctorado UBA(Cs.Físicas),male
+42,Ldo. Cs.Físicas,SAPIENZA Facundo Fabián,Licenciatura en Cs.Físicas,male
+43,Dra. UBA(Cs.Biológicas),SAPOCHNIK Daiana Andrea,Doctorado UBA(Cs.Biológicas),female
+44,Ldo. Cs.Computación,SARAVIA DAMBROSI Nicolas Andres,Licenciatura en Cs.Computación,male
+45,Esp. en Bromatología y Tecnología de Alimentos,SARMIENTO CERON Doris Gianina,Especialista en Bromatología y Tecnología de Alimentos,female
+46,Ldo. Cs.Computación,SAUDINO Ezequiel Pablo,Licenciatura en Cs.Computación,male
+47,Analista Universitario de Computación,SAUDINO Ezequiel Pablo,Analisis Universitario de Computación,male
+48,Profesor Ens.Med.y Sup.Química,SCACHI Martin Manuel,Profesorado en Ens.Med.y Sup.Química,male
+49,Dr. UBA(Cs.Biológicas),SCAGLIOTTI Juan José,Doctorado UBA(Cs.Biológicas),male
+50,Analista Universitario de Computación,SCARPINO Gino Cayetano,Analisis Universitario de Computación,male
+51,Ldo. Cs.Físicas,SCHIFANI Guido,Licenciatura en Cs.Físicas,male
+52,Dra. UBA(Cs.Biológicas),SCHULTZ Sabina,Doctorado UBA(Cs.Biológicas),female
+0,Dr. UBA(Química Industrial),SCHWENGBER Alex,Doctorado UBA(Química Industrial),male
+1,Dr. UBA(Cs.Biológicas),SCLOVICH Sergio Eduardo,Doctorado UBA(Cs.Biológicas),male
+2,Ldo. Cs.Físicas,SCOCOZZA Bruno Nicolás,Licenciatura en Cs.Físicas,male
+3,Lda. Cs.Físicas,SCORNAVACCHE Marina Andrea,Licenciatura en Cs.Físicas,female
+4,Esp. en Estadística para Cs. de la Salud,SEIFERT Gabriela Elunei,Especialista en Estadística para Cs. de la Salud,female
+5,Dra. UBA(Química Biológica),SERER María Inés,Doctorado UBA(Química Biológica),female
+6,Ldo. Cs.Físicas,SEVERINO Ramiro Sebastian,Licenciatura en Cs.Físicas,male
+7,Lda. Cs.Físicas,SIEPE Jimena Vanesa,Licenciatura en Cs.Físicas,female
+8,Ldo. Ciencia y Tecnología de Alimentos,SIMON Mariano Ernesto,Licenciatura en Ciencia y Tecnología de Alimentos,male
+9,Esp. en Biotecnología Industrial,SIMULA Silvina,Especialista en Biotecnología Industrial,female
+10,Dr. UBA(Cs.Matemáticas),SMUCLER Ezequiel,Doctorado UBA(Cs.Matemáticas),male
+11,Esp. en Conservación de la Biodiversidad,SOBRAL ZOTTA Nazareno,Especialista en Conservación de la Biodiversidad,male
+12,Profesora Ens.Med.y Sup.Biología,SOIFER Verónica Ana,Profesorado en Ens.Med.y Sup.Biología,female
+13,Ldo. Cs.Biológicas,SOMOZA Martín,Licenciatura en Cs.Biológicas,male
+14,Dra. UBA(Química Biológica),SORIA Ivana,Doctorado UBA(Química Biológica),female
+15,Dra. UBA(Cs.Biológicas),SOTELO María Inés,Doctorado UBA(Cs.Biológicas),female
+16,Lda. Cs.Geológicas,SPACCAROTELLA Laura Vanesa,Licenciatura en Cs.Geológicas,female
+17,Lda. Cs.Geológicas,SPOLTORE Daniela Verónica,Licenciatura en Cs.Geológicas,female
+18,"Dra. UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",STEINBERG Paula Yael,"Doctorado UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",female
+19,Bachiller Universitario Cs.Atmósfera,STEL Lucas,Bachillerato Universitario Cs.Atmósfera,male
+20,Dra. UBA(Química Biológica),STERLE Helena Andrea,Doctorado UBA(Química Biológica),female
+21,Bachiller Universitaria Cs.Atmósfera,STOLL VILLARREAL Luciana,Bachillerato Universitaria Cs.Atmósfera,female
+22,Lda. Cs.Geológicas,STURLESI Magalí Aldana,Licenciatura en Cs.Geológicas,female
+23,Dra. UBA(Química Biológica),SUAREZ Guadalupe Verónica,Doctorado UBA(Química Biológica),female
+24,"Dr. UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",SZALAI Alan Marcelo,"Doctorado UBA(Qca.Inorgánica,Qca.Analítica y Qca.Física)",male
+25,Ldo. Cs.Geológicas,SZCZAPOWY Dan Israel,Licenciatura en Cs.Geológicas,male
+26,Lda. Cs.Geológicas,Szentiványi Juliana María,Licenciatura en Cs.Geológicas,male
+27,Lda. Ciencia y Tecnología de Alimentos,SZENTIVANYI Valeria María,Licenciatura en Ciencia y Tecnología de Alimentos,female
+28,Ldo. Cs.Físicas,SZEWC Manuel,Licenciatura en Cs.Físicas,male
+29,Dra. UBA(Cs.Matemáticas),SZRETTER NOSTE Maria Eugenia,Doctorado UBA(Cs.Matemáticas),female
+30,Ldo. Cs.Matemáticas,TAMAROFF Pedro Nicolas,Licenciatura en Cs.Matemáticas,male
+31,Ldo. Cs.Computación,TARULLA Francisco Raul,Licenciatura en Cs.Computación,male
+32,Dra. UBA(Química Biológica),TEIJO Maria Julieta,Doctorado UBA(Química Biológica),female
+33,Esp. en Exp.de Datos y Desc.de Conocimiento,TENCER Matias Guido,Especialista en Exp.de Datos y Desc.de Conocimiento,male
+34,Dr. UBA(Cs.Físicas),TIFFENBERG Javier Sebastián,Doctorado UBA(Cs.Físicas),mostly_male
+35,Dra. UBA(Química Biológica),TKACH Mercedes,Doctorado UBA(Química Biológica),female
+36,Analista Universitario de Computación,TORRES BATAN Santiago,Analisis Universitario de Computación,male
+37,Ldo. Cs.Matemáticas,TORRES Pablo Andres,Licenciatura en Cs.Matemáticas,male
+38,Lda. Cs.Físicas,TOSCANI Mariana,Licenciatura en Cs.Físicas,female
+39,Dra. UBA(Cs.Biológicas),TOTINO Mariana,Doctorado UBA(Cs.Biológicas),female
+40,Asistente de Investigación en Física,TRAVERSO Pablo Hernán,Asistencia de Investigación en Física,male
+41,Dra. UBA(Cs.Biológicas),TRENTINI Carolina Paola,Doctorado UBA(Cs.Biológicas),female
+42,Asistente de Investigación en Física,TRINCKLER Tomás Manuel,Asistencia de Investigación en Física,male
+43,Dra. UBA(Cs.Biológicas),TRIPODI Mariel Alejandra,Doctorado UBA(Cs.Biológicas),female
+44,Ldo. Cs.Químicas,TROSSERO Jonathan Claudio Alejandro,Licenciatura en Cs.Químicas,male
+45,Dr. UBA(Cs.Computación),UBALDE Sebastian,Doctorado UBA(Cs.Computación),male
+46,Magister UBA en Meteorología Agrícola,VAIMAN Nicolás,Magisterio UBA en Meteorología Agrícola,male
+47,Esp. en Estadística para Cs. de la Salud,VAINSTEIN Nora Elizabeth,Especialista en Estadística para Cs. de la Salud,female
+48,Ldo. Cs.Geológicas,VALDÉS Santiago Pablo,Licenciatura en Cs.Geológicas,male
+49,Lda. Ciencia y Tecnología de Alimentos,VALDEZ Maria de las Mercedes,Licenciatura en Ciencia y Tecnología de Alimentos,female
+50,Lda. Cs.Biológicas,VALENTI María del Rosario,Licenciatura en Cs.Biológicas,female
+51,Ldo. Cs.Matemáticas,VALLE Maximiliano,Licenciatura en Cs.Matemáticas,male
+52,Magister UBA en Física Médica,VALLEJO RUEDA Josue David,Magisterio UBA en Física Médica,male
+0,Dr. UBA(Cs.Biológicas),VALLI Eduardo,Doctorado UBA(Cs.Biológicas),male
+1,Ldo. Cs.Físicas,van der VELDE Guido Gustavo,Licenciatura en Cs.Físicas,mostly_male
+2,Lda. Cs.Químicas,VARDÉ Mariana,Licenciatura en Cs.Químicas,female
+3,Dr. UBA(Cs.Físicas),VARGA Juan Jose Miguel,Doctorado UBA(Cs.Físicas),male
+4,Dr. UBA(Cs.Biológicas),VASEN Gustavo,Doctorado UBA(Cs.Biológicas),male
+5,Esp. en Exp.de Datos y Desc.de Conocimiento,VEGA BUELVAS Wilfredo David,Especialista en Exp.de Datos y Desc.de Conocimiento,male
+6,Ldo. Cs.Físicas,VEGA Cristian Santiago,Licenciatura en Cs.Físicas,male
+7,Ldo. Cs.Químicas,VEIGA Lionel Sebastian,Licenciatura en Cs.Químicas,male
+8,Lda. Cs.Biológicas,VELAZQUEZ Candela,Licenciatura en Cs.Biológicas,female
+9,Esp. en Exp.de Datos y Desc.de Conocimiento,VENEZIANO Mauro Agustín,Especialista en Exp.de Datos y Desc.de Conocimiento,male
+10,Lda. Cs.Químicas,VENSAUS Priscila,Licenciatura en Cs.Químicas,female
+11,Ldo. Cs.Geológicas,VENTISKY Esteban,Licenciatura en Cs.Geológicas,male
+12,Dr. UBA(Química Biológica),VENTURUTTI Leandro,Doctorado UBA(Química Biológica),male
+13,Esp. en Comunicación Pública de la Ciencia y la Tecnología,VERA Maria Jimena,Especialista en Comunicación Pública de la Ciencia y la Tecnología,female
+14,Esp. en Higiene y Seguridad en el Trabajo,VERA SANTANA Andrea Carolina,Especialista en Higiene y Seguridad en el Trabajo,female
+15,Lda. Cs.Biológicas,VIEYTES Aldana,Licenciatura en Cs.Biológicas,female
+16,Analista Universitario de Computación,VILLABLANCA Mariano Sebastian,Analisis Universitario de Computación,male
+17,Dra. UBA(Cs.Biológicas),VILLAR María Eugenia,Doctorado UBA(Cs.Biológicas),female
+18,Ldo. Cs.Físicas,VILLARREAL Rodrigo Exequiel,Licenciatura en Cs.Físicas,male
+19,Dra. UBA(Cs.Biológicas),VILLARRUEL Cecilia Liliana,Doctorado UBA(Cs.Biológicas),female
+20,Dr. UBA(Cs.Biológicas),VIÑAS Ezequiel Santiago,Doctorado UBA(Cs.Biológicas),male
+21,Lda. Cs.Físicas,VIOTTI Ludmila,Licenciatura en Cs.Físicas,female
+22,Analista Universitario de Computación,VIVONA Ignacio,Analisis Universitario de Computación,male
+23,Ldo. Cs.Químicas,WUILLE BILLE Brian Alan,Licenciatura en Cs.Químicas,male
+24,Lda. Cs.Biológicas,XAUS Lucila,Licenciatura en Cs.Biológicas,female
+25,Ldo. Cs.Físicas,YUNIS Rafael Ignacio,Licenciatura en Cs.Físicas,male
+26,Dr. UBA(Cs.Matemáticas),ZADUNAISKY BUSTILLOS Pablo Mauricio,Doctorado UBA(Cs.Matemáticas),male
+27,Asistente de Investigación en Física,ZAJC Tomas,Asistencia de Investigación en Física,male
+28,Dra. UBA(Cs.Biológicas),ZALCMAN Gisela Patricia,Doctorado UBA(Cs.Biológicas),female
+29,Lda. Cs.Biológicas,ZAMBRANA MONTAÑO Romina Micaela,Licenciatura en Cs.Biológicas,female
+30,Bachiller Universitario Cs.Atmósfera,ZEITUNE Martin Ezequiel,Bachillerato Universitario Cs.Atmósfera,male
+31,Ldo. Cs.Matemáticas,ZUCCOTTI Juan Rodrigo,Licenciatura en Cs.Matemáticas,male
+32,Lda. Cs.Químicas,ZUPAN Ana Luz,Licenciatura en Cs.Químicas,female
+33,Ldo. Cs.Computación,ZYLBER Ariel Ricardo,Licenciatura en Cs.Computación,male
+34,Dra. UBA(Inst.de Inv.Bioquímicas),ZYLBERMAN Vanesa,Doctorado UBA(Inst.de Inv.Bioquímicas),female
